@@ -1,0 +1,733 @@
+/Users/allenlin/anaconda/bin/python /Users/allenlin/Documents/Research/Txt2Vis/python_newfeature/new_feature.py
+news id: 26, caption: ['nymex', 'lightsweet', 'crude', 'oil', 'prices', '1996–2009', 'not', 'adjusted', 'for', 'inflation'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 31.285415932046092
+news id: 23, caption: ['fukushima', 'radiation', 'comparison', 'to', 'other', 'incidents', 'and', 'standards', 'with', 'graph', 'of', 'recorded', 'radiation', 'levels', 'and', 'specific', 'accident', 'eventsnote', 'does', 'not', 'include', 'all', 'radiation', 'readings', 'from', 'fukushima', 'daini', 'site'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 79.14931543314225
+news id: 26, caption: ['history', 'of', 'venezuelas', 'claimed', 'reserves', 'red', 'in', 'comparison', 'to', 'those', 'of', 'saudi', 'arabia', 'blue'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 53.71124308574907
+news id: 23, caption: ['water', 'column', 'height', 'on', '11', 'march', '2011', 'at', 'dart', 'station', '690', 'nm', 'southeast', 'of', 'tokyo'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 79.14931543314225
+news id: 23, caption: ['hypocentral', 'region', 'boundaries', 'source', 'the', 'japanese', 'headquarters', 'for', 'earthquake', 'research', 'promotion'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 51.71824331372153
+news id: 1, caption: ['disabilityadjusted', 'life', 'year', 'for', 'poliomyelitis', 'per', '100000nbspinhabitants', 'in', '2004'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 91.9784047584791
+news id: 26, caption: ['the', 'price', 'of', 'oil', 'during', 'the', 'embargo', 'the', 'graph', 'is', 'based', 'on', 'the', 'nominal', 'not', 'real', 'price', 'of', 'oil', 'and', 'so', 'overstates', 'prices', 'at', 'the', 'end', 'however', 'the', 'effects', 'of', 'the', 'arab', 'oil', 'embargo', 'are', 'clear—it', 'effectively', 'doubled', 'the', 'real', 'price', 'of', 'crude', 'oil', 'at', 'the', 'refinery', 'level', 'and', 'caused', 'massive', 'shortages', 'in', 'the', 'us'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 139.93266519929873
+news id: 1, caption: ['reported', 'polio', 'cases', 'in', '2012'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 155.92995973239346
+news id: 1, caption: ['countries', 'with', 'polio', 'cases', 'in', '2005'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 155.92995973239346
+news id: 1, caption: ['reported', 'polio', 'cases', 'in', '2013'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 155.92995973239346
+news id: 1, caption: ['reported', 'polio', 'cases', 'in', '2015'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 93.25581971129341
+news id: 26, caption: ['graph', 'of', 'oil', 'prices', 'from', '1861–2007', 'showing', 'a', 'sharp', 'increase', 'in', '1973', 'and', 'again', 'during', 'the', '1979', 'energy', 'crisis', 'the', 'orange', 'line', 'is', 'adjusted', 'for', 'inflation'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 98.67250768082104
+news id: 31, caption: ['percentage', 'of', 'people', 'without', 'health', 'insurance', 'coverage', 'by', 'state', 'according', 'to', 'the', 'united', 'states', 'census', 'bureau', '2009'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 96.72107252145116
+news id: 26, caption: ['fluctuations', 'of', 'brent', 'crude', 'oil', 'price', '1988–2015'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 31.285415932046092
+news id: 26, caption: ['opec', 'net', 'oil', 'export', 'revenues', 'for', '1971–2007'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 53.71124308574907
+news id: 22, caption: ['total', 'health', 'spending', 'per', 'capita', 'in', 'us', 'dollars', 'pppadjusted', 'of', 'france', 'compared', 'amongst', 'various', 'other', 'first', 'world', 'nations'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 66.25186223021313
+news id: 23, caption: ['peak', 'tsunami', 'wave', 'height', 'summits', 'colorcoded', 'with', 'red', 'representing', 'most', 'severe'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 51.71824331372153
+news id: 1, caption: ['reported', 'polio', 'cases', 'in', '2016'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 49.9411615352577
+news id: 1, caption: ['reported', 'polio', 'cases', 'in', '2014'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 49.9411615352577
+news id: 24, caption: ['created', 'by', 'rob', 'janoff', 'in', '1977', 'the', 'apple', 'logo', 'with', 'the', 'rainbow', 'scheme', 'was', 'used', 'from', 'april', 'of', 'that', 'yeardesigner', 'asserts', 'that', 'his', 'rainbowstriped', 'apple', 'logo', 'was', 'introduced', 'at', 'west', 'coast', 'computer', 'fair', 'until', 'august', '26', '1999', 'steve', 'jobs', 'has', 'asserted', 'the', 'apple', 'logo', 'was', 'inspired', 'by', 'the', 'story', 'of', 'his', 'childhood'], keywords in news: [('request', 12), ('u', 9), ('apple', 9), ('account', 7), ('data', 7), ('information', 6), ('uk', 5), ('year', 5), ('country', 5), ('law', 5)], score: 88.24600116635591
+news id: 31, caption: ['uninsured', 'americans', 'with', 'the', 'numbers', 'shown', 'here', 'from', '1987', 'to', '2008', 'are', 'a', 'major', 'driver', 'for', 'reform', 'efforts'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 76.45125475153775
+news id: 1, caption: ['disabilityadjusted', 'life', 'year', 'for', 'infectious', 'and', 'parasitic', 'diseases', 'per', '100000', 'inhabitants', 'in', '2004'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 80.50806247983519
+news id: 31, caption: ['health', 'insurance', 'premiums', 'for', 'employerprovided', 'family', 'coverage', '19992014', 'the', '3', 'increase', 'in', '2014', 'was', 'tied', 'for', 'lowest', 'over', 'the', '16year', 'period'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 79.23756679569466
+news id: 26, caption: ['irans', 'oil', 'vs', 'nonoil', 'real', 'gdp', 'growth', 'projections'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 24.480713207679244
+news id: 26, caption: ['irans', 'projected', 'oil', 'and', 'gas', 'projected', 'revenues', 'by', 'the', 'international', 'monetary', 'fund'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 24.480713207679244
+news id: 31, caption: ['share', 'by', 'insurance', 'coverage', 'type', 'for', 'those', 'under', '65', 'years', 'of', 'age'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 79.23756679569466
+news id: 34, caption: ['isaf', 'insignia'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 56.61368883246406
+news id: 26, caption: ['government', 'budget', 'deficit', 'has', 'been', 'a', 'chronic', 'problem', 'in', 'iran', 'in', 'the', 'past', 'in', '2004', 'about', '45', 'percent', 'of', 'the', 'governments', 'budget', 'came', 'from', 'exports', 'of', 'oil', 'and', 'natural', 'gas', 'revenues', 'and', '31', 'percent', 'came', 'from', 'taxes', 'and', 'fees'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 24.480713207679244
+news id: 34, caption: ['current', 'military', 'situation', 'as', 'of', '27', 'february', '2016'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 66.93080984231173
+news id: 9, caption: ['san', 'juan', 'islands', 'highlighted', 'and', 'surrounding', 'region'], keywords in news: [('san', 5), ('buyer', 5), ('—', 5), ('island', 4), ('house', 4), ('juan', 4), ('washington', 3), ('county', 3), ('home', 3), ('family', 3)], score: 46.7876985048171
+news id: 34, caption: ['flag', 'used', 'by', 'the', 'afghan', 'taliban', 'widely', 'believed', 'to', 'receive', 'extensive', 'support', 'by', 'pakistans', 'military', 'and', 'its', 'interservices', 'intelligence'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 69.55242215181745
+news id: 1, caption: ['the', 'location', 'of', 'motor', 'neurons', 'in', 'the', 'anterior', 'horn', 'cells', 'of', 'the', 'spinal', 'column'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 41.4531830346778
+news id: 34, caption: ['map', 'of', 'the', 'situation', 'in', 'afghanistan', 'in', 'late', '1996', 'massoud', 'red', 'dostum', 'green', 'and', 'taliban', 'yellow', 'territories'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 66.93080984231173
+news id: 26, caption: ['sulfur', 'content', 'and', 'api', 'gravity', 'of', 'different', 'types', 'of', 'crude', 'oil'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 24.48613763754294
+news id: 22, caption: ['health', 'insurance', 'exchanges', 'by', 'state'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 52.86591865546803
+news id: 22, caption: ['medicaid', 'expansion', 'by', 'state'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 52.86591865546803
+news id: 22, caption: ['chart', 'comparing', '2008', 'health', 'care', 'spending', 'left', 'vs', 'life', 'expectancy', 'right', 'in', 'oecd', 'countries'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 46.58149189995791
+news id: 22, caption: ['health', 'expenditure', 'per', 'capita', 'in', 'pppadjusted', 'us', 'among', 'several', 'oecd', 'member', 'nations', 'data', 'source', 'oecds', 'ilibrary'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 46.58149189995791
+news id: 24, caption: ['current', 'apple', 'logo', 'introduced', 'august', '27', '1999', 'and', 'remains', 'in', 'use', 'today'], keywords in news: [('request', 12), ('u', 9), ('apple', 9), ('account', 7), ('data', 7), ('information', 6), ('uk', 5), ('year', 5), ('country', 5), ('law', 5)], score: 69.86024456477459
+news id: 22, caption: ['hospital', 'beds', 'per', '1000', 'vs', 'health', 'care', 'spending', 'in', '2008', 'for', 'oecd', 'countries', 'the', 'data', 'source', 'is', 'httpwwwoecdorg'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 46.58149189995791
+news id: 22, caption: ['physicians', 'per', '1000', 'vs', 'health', 'care', 'spending', 'in', '2008', 'for', 'oecd', 'countries', 'the', 'data', 'source', 'is', 'httpwwwoecdorg'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 46.58149189995791
+news id: 24, caption: ['the', 'very', 'first', 'apple', 'computer', 'logo', 'drawn', 'by', 'ronald', 'wayne', 'depicts', 'isaac', 'newton', 'under', 'an', 'apple', 'tree'], keywords in news: [('request', 12), ('u', 9), ('apple', 9), ('account', 7), ('data', 7), ('information', 6), ('uk', 5), ('year', 5), ('country', 5), ('law', 5)], score: 69.86024456477459
+news id: 22, caption: ['percentage', 'of', 'obese', 'population', 'in', '2010', 'data', 'source', 'oecds', 'ilibrary', 'httpstatsoecdorg', 'retrieved', '20131213'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 46.58149189995791
+news id: 22, caption: ['percentage', 'of', 'overweight', 'or', 'obese', 'population', 'in', '2010', 'data', 'source', 'oecds', 'ilibrary', 'httpstatsoecdorg', 'retrieved', '20131212'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 46.58149189995791
+news id: 34, caption: ['regional', 'security', 'risks', 'and', 'levels', 'of', 'opium', 'poppy', 'cultivation', 'in', '2007–2008'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 72.39350124890191
+news id: 23, caption: ['map', 'of', 'seismic', 'intensity', 'observations', 'resulting', 'from', 'mainshock'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 39.98837062135523
+news id: 38, caption: ['map', 'of', 'the', 'boundaries', 'of', 'the', 'united', 'states', 'courts', 'of', 'appeals', 'and', 'united', 'states', 'district', 'courts'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 56.01321605917934
+news id: 23, caption: ['map', 'of', 'the', 'tōhoku', 'earthquake', 'and', 'aftershocks', 'on', '11–14', 'march'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 39.98837062135523
+news id: 33, caption: ['the', 'transgender', 'pride', 'flag', 'created', 'by', 'openly', 'transgender', 'american', 'woman', 'monica', 'helms'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 75.29311627198024
+news id: 33, caption: ['a', 'gender', 'symbol', 'commonly', 'used', 'to', 'represent', 'transgender', 'people'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 73.4539862863059
+news id: 23, caption: ['energy', 'map', 'of', 'the', 'tsunami', 'from', 'noaa'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 39.98837062135523
+news id: 23, caption: ['a', 'visual', 'depiction', 'of', 'the', 'type', 'of', 'faulting', 'that', 'caused', 'the', 'main', 'tremor', 'lowangle', 'thrusting', 'on', 'a', 'westdipping', 'fault', 'plane'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 39.98837062135523
+news id: 31, caption: ['uninsured', 'americans', 'in', '2007', 'by', 'income', 'status'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 62.42405033139583
+news id: 1, caption: ['vaccine'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 47.72734831294204
+news id: 29, caption: ['statebystate', 'popular', 'votes', 'in', 'the', 'democratic', 'primaries', 'and', 'caucuses', 'shaded', 'by', 'percentage', 'won', 'obama', 'in', 'purple', 'clinton', 'in', 'green', 'popular', 'vote', 'winners', 'and', 'delegate', 'winners', 'differed', 'in', 'new', 'hampshire', 'nevada', 'missouri', 'texas', 'and', 'guam'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 54.98677926732638
+news id: 17, caption: ['total', 'government', 'tax', 'revenues', 'as', 'a', 'percentage', 'of', 'gdp', 'for', 'the', 'us', 'in', 'comparison', 'to', 'the', 'oecd', 'and', 'the', 'eu', '15'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 62.18972184306442
+news id: 31, caption: ['58', 'countries', 'with', 'universal', 'health', 'care', 'in', '2009', 'according', 'to', 'stuckler', 'et', 'al'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 62.42405033139583
+news id: 23, caption: ['position', 'of', 'japanese', 'nuclear', 'power', 'stations', 'and', 'the', 'spreading', 'of', 'the', 'initial', 'tsunami'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 36.31354749348562
+news id: 15, caption: ['medicare', 'and', 'medicaid', 'spending', 'as', 'gdp', '2013'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 37.58788716540751
+news id: 26, caption: ['countries', 'by', 'oil', 'production', '2013'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 12.66269895645066
+news id: 33, caption: ['states', 'that', 'prohibit', 'housing', 'discrimination', 'based', 'on', 'sexual', 'orientation', 'or', 'gender', 'identity', 'hud', 'regulations', 'require', 'all', 'housing', 'providers', 'that', 'receive', 'hud', 'funding', 'not', 'to', 'discriminate', 'against', 'an', 'individuals', 'sexual', 'orientation', 'or', 'gender', 'identity'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 63.44682341874815
+news id: 33, caption: ['the', 'procedure', 'each', 'state', 'uses', 'to', 'alter', 'the', 'sex', 'on', 'ones', 'birth', 'certificate'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 51.07002665850051
+news id: 33, caption: ['current', 'us', 'lgbt', 'employment', 'discrimination', 'laws'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 63.44682341874815
+news id: 33, caption: ['legal', 'requirements', 'each', 'state', 'has', 'for', 'altering', 'the', 'sex', 'on', 'ones', 'birth', 'certificate', '1some', 'texas', 'officials', 'have', 'refused', 'to', 'amend', 'the', 'sex', 'on', 'birth', 'certificates', 'to', 'reflect', 'a', 'sex', 'change', 'after', 'the', 'ruling', 'littleton', 'v', 'prange', 'however', 'a', 'judge', 'can', 'order', 'an', 'amendment', '2illinois', 'does', 'not', 'require', 'genital', 'reconstruction', 'surgery', 'to', 'amend', 'the', 'sex', 'on', 'birth', 'certificates', 'but', 'it', 'does', 'require', 'proof', 'of', 'an', 'operation'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 51.07002665850051
+news id: 34, caption: ['development', 'of', 'the', 'taliban', 'insurgency', 'up', 'until', '2006', 'infiltrating', 'from', 'pakistan', 'into', 'afghanistans', 'pashtun', 'areas'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 36.58454721135499
+news id: 31, caption: ['health', 'insurance', 'exchanges', 'by', 'state'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 68.50489225214791
+news id: 15, caption: ['the', 'medicare', 'trustees', 'reduced', 'their', 'forecast', 'for', 'medicare', 'costs', 'as', 'gdp', 'mainly', 'due', 'to', 'a', 'lower', 'rate', 'of', 'healthcare', 'cost', 'increases'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 37.58788716540751
+news id: 26, caption: ['usa', 'oil', 'production', 'and', 'imports', 'as', 'shown', 'the', 'import', 'spike', 'starts', 'from', 'us', 'peak', 'and', 'the', 'socalled', 'embargo', 'almost', 'has', 'no', 'effect'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 12.66269895645066
+news id: 26, caption: ['proven', 'world', 'oil', 'reserves', '2013', 'unconventional', 'reservoirs', 'such', 'as', 'natural', 'heavy', 'oil', 'and', 'oil', 'sands', 'are', 'included'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 12.66269895645066
+news id: 29, caption: ['new', 'yorks', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 53.69751762337519
+news id: 15, caption: ['medicare', 'spending', 'per', 'person', 'varied', 'significantly', 'across', 'states', 'in', '2006'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 37.58788716540751
+news id: 26, caption: ['oil', 'and', 'gas', 'pipelines', 'in', 'the', 'middleeast'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 12.66269895645066
+news id: 26, caption: ['most', 'of', 'the', 'worlds', 'oils', 'are', 'nonconventional'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 12.66269895645066
+news id: 34, caption: ['the', 'islamic', 'emirate', 'of', 'afghanistan', 'and', 'the', 'northern', 'alliance', 'in', 'the', 'spring', 'of', '2000', 'when', 'the', 'taliban', 'was', 'at', 'the', 'height', 'of', 'its', 'power'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 36.58454721135499
+news id: 26, caption: ['production', 'of', 'oil', 'shale', 'in', 'millions', 'of', 'metric', 'tons', 'from', '1880', 'to', '2010', 'source', 'pierre', 'allix', 'alan', 'k', 'burnham'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 12.66269895645066
+news id: 29, caption: ['a', 'map', 'with', 'five', 'insular', 'regions', 'of', 'different', 'colors'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 53.69751762337519
+news id: 34, caption: ['number', 'of', 'failed', 'foiled', 'or', 'successful', 'terrorist', 'attacks', 'by', 'year', 'and', 'type', 'within', 'the', 'european', 'union', 'source', 'europol', '1', 'person', 'died', 'in', 'terrorist', 'attacks', 'from', 'separatist', 'groups', 'in', '2010'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 40.448313629183616
+news id: 26, caption: ['overview', 'of', 'shale', 'oil', 'extraction'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 12.66269895645066
+news id: 34, caption: ['map', 'showing', 'political', 'control', 'in', 'afghanistan', 'in', 'the', 'fall', 'of', '1996', 'following', 'the', 'capture', 'of', 'kabul', 'by', 'the', 'taliban'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 53.28307150408561
+news id: 29, caption: ['the', 'i', 'love', 'new', 'york', 'logo', 'designed', 'by', 'milton', 'glaser', 'in', '1977'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 53.69751762337519
+news id: 31, caption: ['health', 'insurance', 'premiums', 'paid', 'on', 'behalf', 'of', 'workers', 'are', 'increasingly', 'offsetting', 'compensation'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 70.9001052877591
+news id: 19, caption: ['a', '2012', 'map', 'of', 'the', 'world', 'showing', 'in', 'red', 'the', 'places', 'with', 'least', 'water', 'security'], keywords in news: [('water', 14), ('would', 6), ('mr', 6), ('snyder', 5), ('flint', 5), ('tap', 4), ('resident', 4), ('filtered', 3), ('gov', 3), ('home', 2)], score: 10.681504544177427
+news id: 1, caption: ['the', 'location', 'and', 'anatomy', 'of', 'the', 'bulbar', 'region', 'in', 'orange'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 27.196091524229754
+news id: 39, caption: ['employment', 'statistics', 'changes', 'in', 'unemployment', 'rate', 'and', 'net', 'jobs', 'per', 'month', 'during', 'obamas', 'tenure', 'as', 'us', 'president'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 37.43629433026281
+news id: 17, caption: ['cbo', 'chart', 'illustrating', 'the', 'percent', 'reduction', 'in', 'income', 'inequality', 'due', 'to', 'federal', 'taxes', 'and', 'income', 'transfers', 'from', '1979', 'to', '2011'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 37.80744411085796
+news id: 5, caption: ['location', 'in', 'the', 'us', 'red', 'though', 'san', 'jacinto', 'county', 'is', 'incorrectly', 'included'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 54.432465433732624
+news id: 5, caption: ['map', 'of', 'racialethnic', 'distribution', 'in', 'the', 'city', 'of', 'houston', '2010', 'census', 'each', 'dot', 'represents', '25', 'people', 'red', 'dots', 'represent', 'white', 'people', 'orange', 'dots', 'represent', 'hispanic', 'people', 'blue', 'dots', 'represent', 'black', 'people', 'green', 'dots', 'represent', 'asian', 'people', 'and', 'gray', 'dots', 'represent', 'other', 'people'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 34.04584100970648
+news id: 15, caption: ['this', 'graph', 'depicts', 'gross', 'us', 'health', 'care', 'spending', 'from', '1960', 'to', '2008'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 41.19992100783709
+news id: 31, caption: ['the', 'percent', 'of', 'people', 'in', 'us', 'who', 'reported', 'not', 'seeking', 'medical', 'care', 'due', 'to', 'high', 'cost'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 57.875948792973034
+news id: 15, caption: ['medicare', 'and', 'medicaid', 'spending', 'as', 'gdp'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 41.19992100783709
+news id: 17, caption: ['as', 'of', '2010', '688', 'of', 'federal', 'individual', 'tax', 'receipts', 'including', 'payroll', 'taxes', 'were', 'paid', 'by', 'the', 'top', '20', 'of', 'taxpayers', 'by', 'income', 'group', 'which', 'earned', '50', 'of', 'all', 'household', 'income', 'the', 'top', '1', 'which', 'took', 'home', '193', 'paid', '242', 'whereas', 'the', 'bottom', '20', 'paid', '04', 'due', 'to', 'deductions', 'and', 'the', 'earned', 'income', 'tax', 'creditincome', 'inequality', 'top', '1', 'percent', 'took', 'record', 'share', 'of', '2012', 'us', 'income', 'associated', 'press', 'sept', '10', '2013'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 42.72703740092744
+news id: 1, caption: ['vaccine', 'timeline'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 43.31465817603571
+news id: 39, caption: ['obama', 'won', 'reelection', 'with', '332', 'electoral', 'votes', 'and', '511', 'of', 'the', 'popular', 'vote'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 44.02780783382386
+news id: 39, caption: ['statebystate', 'popular', 'votes', 'in', 'the', 'democratic', 'primaries', 'and', 'caucuses', 'shaded', 'by', 'percentage', 'won', 'obama', 'in', 'purple', 'clinton', 'in', 'green', 'popular', 'vote', 'winners', 'and', 'delegate', 'winners', 'differed', 'in', 'new', 'hampshire', 'nevada', 'missouri', 'texas', 'and', 'guam'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 37.43629433026281
+news id: 1, caption: ['avian', 'flu', 'vaccine', 'development', 'by', 'reverse', 'genetics', 'techniques'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 43.31465817603571
+news id: 36, caption: ['created', 'by', 'rob', 'janoff', 'in', '1977', 'the', 'apple', 'logo', 'with', 'the', 'rainbow', 'scheme', 'was', 'used', 'from', 'april', 'of', 'that', 'yeardesigner', 'asserts', 'that', 'his', 'rainbowstriped', 'apple', 'logo', 'was', 'introduced', 'at', 'west', 'coast', 'computer', 'fair', 'until', 'august', '26', '1999', 'steve', 'jobs', 'has', 'asserted', 'the', 'apple', 'logo', 'was', 'inspired', 'by', 'the', 'story', 'of', 'his', 'childhood'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 55.08856115138127
+news id: 17, caption: ['tax', 'revenues', 'as', 'a', 'percentage', 'of', 'gdp', 'for', 'germany', 'in', 'comparison', 'to', 'the', 'oecd', 'and', 'the', 'eu', '15'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 42.72703740092744
+news id: 23, caption: ['a', 'map', 'of', 'japans', 'electricity', 'distribution', 'network', 'shows', 'the', 'geographic', 'divide', 'between', '50', 'hertz', 'systems', 'and', '60', 'hertz', 'systems'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 36.31354749348562
+news id: 33, caption: ['like', 'humans', 'and', 'other', 'mammals', 'the', 'common', 'fruit', 'fly', 'has', 'an', 'xy', 'sexdetermination', 'system'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 44.633184031175524
+news id: 33, caption: ['sex', 'helps', 'the', 'spread', 'of', 'advantageous', 'traits', 'through', 'recombination', 'the', 'diagrams', 'compare', 'evolution', 'of', 'allele', 'frequency', 'in', 'a', 'sexual', 'population', 'top', 'and', 'an', 'asexual', 'population', 'bottom', 'the', 'vertical', 'axis', 'shows', 'frequency', 'and', 'the', 'horizontal', 'axis', 'shows', 'time', 'the', 'alleles', 'aa', 'and', 'bb', 'occur', 'at', 'random', 'the', 'advantageous', 'alleles', 'a', 'and', 'b', 'arising', 'independently', 'can', 'be', 'rapidly', 'combined', 'by', 'sexual', 'reproduction', 'into', 'the', 'most', 'advantageous', 'combination', 'ab', 'asexual', 'reproduction', 'takes', 'longer', 'to', 'achieve', 'this', 'combination', 'because', 'it', 'can', 'only', 'produce', 'ab', 'if', 'a', 'arises', 'in', 'an', 'individual', 'which', 'already', 'has', 'b', 'or', 'vice', 'versa'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 44.633184031175524
+news id: 34, caption: ['map', 'of', 'the', 'situation', 'in', 'afghanistan', 'in', 'august', '2001', 'until', 'operation', 'enduring', 'freedom'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 47.92441149777346
+news id: 8, caption: ['statebystate', 'popular', 'votes', 'in', 'the', 'democratic', 'primaries', 'and', 'caucuses', 'shaded', 'by', 'percentage', 'won', 'obama', 'in', 'purple', 'clinton', 'in', 'green', 'popular', 'vote', 'winners', 'and', 'delegate', 'winners', 'differed', 'in', 'new', 'hampshire', 'nevada', 'missouri', 'texas', 'and', 'guam'], keywords in news: [('sauce', 9), ('hot', 8), ('clinton', 6), ('black', 6), ('hillary', 5), ('radio', 3), ('song', 3), ('“hot', 3), ('mr', 3), ('charlamagne', 3)], score: 13.049837003546244
+news id: 1, caption: ['newly', 'industrialized', 'countries'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 45.11194290399413
+news id: 34, caption: ['flag', 'used', 'by', 'hezbe', 'islami', 'gulbuddin'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 47.92441149777346
+news id: 22, caption: ['house', 'vote', 'by', 'congressional', 'district'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 14.59087396838558
+news id: 22, caption: ['senate', 'vote', 'by', 'state'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 14.59087396838558
+news id: 37, caption: ['the', 'results', 'of', 'the', 'republican', 'primaries', 'and', 'caucuses', 'red', 'states', 'won', 'by', 'bush', 'yellow', 'states', 'won', 'by', 'mccain'], keywords in news: [('mr', 6), ('trump', 6), ('republican', 4), ('delegate', 4), ('election', 3), ('number', 2), ('party', 2), ('state', 2), ('senator', 2), ('cruz', 2)], score: 57.47207606381883
+news id: 37, caption: ['this', 'map', 'shows', 'the', 'vote', 'in', 'the', '2004', 'presidential', 'election', 'by', 'county', 'all', 'major', 'republican', 'geographic', 'constituencies', 'are', 'visible', 'red', 'dominates', 'the', 'map', 'showing', 'republican', 'strength', 'in', 'the', 'rural', 'areas', 'while', 'the', 'denser', 'areas', 'ie', 'cities', 'are', 'blue', 'notable', 'exceptions', 'include', 'the', 'pacific', 'coast', 'new', 'england', 'the', 'black', 'belt', 'areas', 'with', 'high', 'native', 'american', 'populations', 'and', 'the', 'heavily', 'hispanic', 'parts', 'of', 'the', 'southwest'], keywords in news: [('mr', 6), ('trump', 6), ('republican', 4), ('delegate', 4), ('election', 3), ('number', 2), ('party', 2), ('state', 2), ('senator', 2), ('cruz', 2)], score: 34.08038331460546
+news id: 31, caption: ['the', 'medicare', 'trustees', 'reduced', 'their', 'forecast', 'for', 'medicare', 'costs', 'as', 'gdp', 'mainly', 'due', 'to', 'a', 'lower', 'rate', 'of', 'healthcare', 'cost', 'increases'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 35.74061044442184
+news id: 5, caption: ['map', 'of', 'the', 'houston', 'city', 'limits'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 13.733212666644832
+news id: 5, caption: ['ashburns', 'houston', 'city', 'map', 'c', '1956'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 13.733212666644832
+news id: 24, caption: ['relationship', 'between', 'pbd', 'and', 'privacy', 'engineering'], keywords in news: [('request', 12), ('u', 9), ('apple', 9), ('account', 7), ('data', 7), ('information', 6), ('uk', 5), ('year', 5), ('country', 5), ('law', 5)], score: 30.12124906319831
+news id: 17, caption: ['us', 'federal', 'income', 'individual', 'and', 'corporate', 'and', 'payroll', 'tax', 'rates', 'by', 'income', 'percentile', 'and', 'component', 'as', 'projected', 'for', '2014', 'by', 'the', 'tax', 'policy', 'center'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 18.34475966872098
+news id: 17, caption: ['distribution', 'of', 'us', 'federal', 'taxes', 'for', '2000', 'as', 'a', 'percentage', 'of', 'income', 'among', 'the', 'family', 'income', 'quintiles'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 18.34475966872098
+news id: 13, caption: ['county', 'results', 'of', 'the', '2004', 'us', 'senate', 'race', 'in', 'illinois', 'obama', 'won', 'the', 'counties', 'in', 'blue'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 41.95295628199084
+news id: 13, caption: ['deficit', 'and', 'debt', 'increases', '2001–2015'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 41.95295628199084
+news id: 13, caption: ['employment', 'statistics', 'changes', 'in', 'unemployment', 'rate', 'and', 'net', 'jobs', 'per', 'month', 'during', 'obamas', 'tenure', 'as', 'us', 'president'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 41.95295628199084
+news id: 33, caption: ['map', 'of', 'georgia', 'counties', 'cities', 'and', 'unincorporated', 'communities', 'that', 'have', 'sexual', 'orientation', 'andor', 'gender', 'identity', 'anti–employment', 'discrimination', 'ordinances'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 57.00998079142317
+news id: 33, caption: ['laws', 'concerning', 'gender', 'identityexpression', 'by', 'country', 'or', 'territory'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 28.918268329764537
+news id: 15, caption: ['gross', 'cost', 'of', 'coverage', 'provisions', 'in', 'house', 'and', 'senate', 'bills'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 37.58788716540751
+news id: 15, caption: ['health', 'insurance', 'premiums', 'paid', 'on', 'behalf', 'of', 'workers', 'are', 'increasingly', 'offsetting', 'compensation'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 37.58788716540751
+news id: 31, caption: ['medicare', 'spending', 'per', 'person', 'varied', 'significantly', 'across', 'states', 'in', '2006'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 37.56332044991138
+news id: 17, caption: ['based', 'on', 'cbo', 'estimates', 'under', '2013', 'tax', 'law', 'the', 'top', '1', 'will', 'be', 'paying', 'the', 'highest', 'average', 'tax', 'rates', 'since', '1979', 'while', 'other', 'income', 'groups', 'will', 'remain', 'at', 'historic', 'lows'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 30.468979211689444
+news id: 33, caption: ['median', 'weekly', 'earnings', 'of', 'fulltime', 'wage', 'and', 'salary', 'workers', 'by', 'sex', 'race', 'and', 'ethnicity', 'us', '2009us', 'bureau', 'of', 'labor', 'statistics', 'highlights', 'of', 'women’s', 'earnings', 'in', '2009', 'report', '1025', 'june', '2010'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 44.633184031175524
+news id: 33, caption: ['flowers', 'are', 'the', 'sexual', 'organs', 'of', 'flowering', 'plants', 'usually', 'containing', 'both', 'male', 'and', 'female', 'parts'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 44.633184031175524
+news id: 33, caption: ['the', 'life', 'cycle', 'of', 'sexually', 'reproducing', 'organisms', 'cycles', 'through', 'haploid', 'and', 'diploid', 'stages'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 44.633184031175524
+news id: 31, caption: ['health', 'spending', 'per', 'capita', 'in', 'us', 'purchasing', 'power', 'parityadjusted', 'among', 'various', 'oecd', 'countries'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 46.47328498796859
+news id: 31, caption: ['medicare', 'and', 'medicaid', 'spending', 'as', 'gdp', 'data', 'from', 'the', 'cbo'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 46.47328498796859
+news id: 38, caption: ['the', 'transgender', 'pride', 'flag', 'was', 'designed', 'by', 'monica', 'helms', 'and', 'was', 'first', 'shown', 'at', 'a', 'pride', 'parade', 'in', 'phoenix', 'arizona', 'usa', 'in', '2000', 'the', 'flag', 'represents', 'the', 'transgender', 'community', 'and', 'consists', 'of', 'five', 'horizontal', 'stripes', 'two', 'light', 'blue', 'two', 'pink', 'with', 'a', 'white', 'stripe', 'in', 'the', 'center'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 40.81486959948133
+news id: 14, caption: ['plot', 'of', 'transistor', 'counts', 'against', 'dates', 'of', 'introduction', 'the', 'curve', 'shows', 'counts', 'doubling', 'every', 'two', 'years'], keywords in news: [('intel', 5), ('company', 5), ('computer', 4), ('would', 3), ('cut', 3), ('job', 3), ('year', 2), ('also', 2), ('u', 2), ('personal', 2)], score: 46.45209138480487
+news id: 39, caption: ['county', 'results', 'of', 'the', '2004', 'us', 'senate', 'race', 'in', 'illinois', 'obama', 'won', 'the', 'counties', 'in', 'blue'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 27.900785576950693
+news id: 36, caption: ['current', 'apple', 'logo', 'introduced', 'august', '27', '1999', 'and', 'remains', 'in', 'use', 'today'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 38.27504468708245
+news id: 39, caption: ['obamas', 'international', 'agreements', 'and', 'air', 'strikes'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 27.900785576950693
+news id: 10, caption: ['official', 'logo', 'of', 'the', 'national', 'coalition', 'for', 'syrian', 'revolutionary', 'and', 'opposition', 'forces'], keywords in news: [('syrian', 8), ('government', 6), ('image', 4), ('maarat', 4), ('strike', 4), ('province', 4), ('group', 4), ('people', 4), ('alnuman', 4), ('idlib', 4)], score: 12.945501015984538
+news id: 36, caption: ['the', 'very', 'first', 'apple', 'computer', 'logo', 'drawn', 'by', 'ronald', 'wayne', 'depicts', 'isaac', 'newton', 'under', 'an', 'apple', 'tree'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 38.27504468708245
+news id: 40, caption: ['2015', '–', 'warmest', 'global', 'year', 'on', 'record', 'since', '1880', '–', 'colors', 'indicate', 'temperature', 'anomalies', 'nasanoaa', '20', 'january', '2016'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 21.566731550803624
+news id: 34, caption: ['development', 'of', 'isaf', 'troop', 'strength'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 17.578148866816726
+news id: 13, caption: ['cuban', 'export', 'composition', '2009'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 38.70006090713274
+news id: 26, caption: ['saudi', 'arabian', 'exports', 'in', '2006'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 40.69925276708779
+news id: 17, caption: ['map', 'of', 'average', 'federal', 'tax', 'revenue', 'per', 'capita', 'by', 'state', 'in', '2007', 'legend'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 35.38857250175893
+news id: 17, caption: ['share', 'of', 'federal', 'revenue', 'from', 'different', 'tax', 'sources', 'individual', 'income', 'taxes', 'blue', 'payroll', 'taxesfica', 'green', 'corporate', 'income', 'taxes', 'red'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 35.38857250175893
+news id: 34, caption: ['topography'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 17.578148866816726
+news id: 34, caption: ['afghanistan', 'is', 'divided', 'into', '34', 'provinces', 'and', 'every', 'province', 'is', 'further', 'divided', 'into', 'a', 'number', 'of', 'districts'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 17.578148866816726
+news id: 17, caption: ['map', 'of', 'total', 'federal', 'tax', 'revenue', 'by', 'state', 'in', '2007', 'legend'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 35.38857250175893
+news id: 4, caption: ['alaska', 'in', '1895', 'rand', 'mcnally', 'the', 'boundary', 'of', 'southeastern', 'alaska', 'shown', 'is', 'that', 'claimed', 'by', 'the', 'united', 'states', 'prior', 'to', 'the', 'conclusion', 'of', 'the', 'alaska', 'boundary', 'dispute'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 23.346608765495855
+news id: 26, caption: ['international', 'monetary', 'fund'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 22.64362154920083
+news id: 38, caption: ['gender', 'pay', 'gap', 'in', 'average', 'gross', 'hourly', 'earnings', 'according', 'to', 'eurostat', '2008'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 14.607875685789836
+news id: 26, caption: ['comparison', 'of', 'natural', 'gas', 'prices', 'in', 'japan', 'united', 'kingdom', 'and', 'united', 'states', '2007–2011'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 6.7992782945031545
+news id: 5, caption: ['map', 'of', 'the', 'bay', 'area'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 40.69925276708779
+news id: 26, caption: ['imf', 'data', 'dissemination', 'systems', 'participants'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 22.64362154920083
+news id: 34, caption: ['the', 'islamic', 'conquest', 'of', 'afghanistan', 'began', 'from', 'herat', 'which', 'was', 'one', 'of', 'the', 'important', 'cities', 'of', 'khorasan', 'and', 'made', 'its', 'way', 'to', 'kabul', 'in', 'the', 'late', '600s'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 34.27667315954734
+news id: 34, caption: ['afghanistan', 'trends', 'in', 'the', 'human', 'development', 'index', '1970–2010'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 17.578148866816726
+news id: 34, caption: ['afghanistan', 'map', 'of', 'köppen', 'climate', 'classification'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 17.578148866816726
+news id: 38, caption: ['median', 'weekly', 'earnings', 'of', 'fulltime', 'wage', 'and', 'salary', 'workers', 'by', 'sex', 'race', 'and', 'ethnicity', 'us', '2009us', 'bureau', 'of', 'labor', 'statistics', 'highlights', 'of', 'women’s', 'earnings', 'in', '2009', 'report', '1025', 'june', '2010'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 14.607875685789836
+news id: 17, caption: ['german', 'tax', 'revenue', '2007'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 35.38857250175893
+news id: 5, caption: ['austins', 'racial', 'and', 'ethnic', 'geography', 'red', 'is', 'nonhispanic', 'white', 'blue', 'is', 'africanamerican', 'green', 'is', 'asianamerican', 'orange', 'is', 'hispaniclatino', 'gray', 'is', 'other', 'each', 'dot', 'represents', '25', 'people'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 20.31262834306165
+news id: 26, caption: ['natural', 'gas', 'prices', 'at', 'the', 'henry', 'hub', 'in', 'us', 'dollars', 'per', 'million', 'btus', 'mmbtu'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 6.7992782945031545
+news id: 2, caption: ['world', 'map', 'of', 'pornography', '18', 'laws'], keywords in news: [('bill', 5), ('mormon', 5), ('state', 4), ('group', 4), ('society', 3), ('porn', 3), ('church', 3), ('pornography', 3), ('adult', 2), ('u', 2)], score: 45.32789152327355
+news id: 16, caption: ['unodc', 'per', '100000', 'population', '2011'], keywords in news: [('west', 4), ('key', 4), ('murder', 4), ('rutherfordbrown', 4), ('chicago', 4), ('base', 3), ('rutherfordbrown’s', 2), ('jacqueline', 2), ('u', 2), ('allegedly', 2)], score: 30.891002205510237
+news id: 16, caption: ['international', 'murder', 'rate', 'per', '100000', 'inhabitants', '2011'], keywords in news: [('west', 4), ('key', 4), ('murder', 4), ('rutherfordbrown', 4), ('chicago', 4), ('base', 3), ('rutherfordbrown’s', 2), ('jacqueline', 2), ('u', 2), ('allegedly', 2)], score: 30.891002205510237
+news id: 2, caption: ['xxx', 'is', 'used', 'to', 'designate', 'pornographic', 'material', 'in', 'the', 'us', 'and', 'other', 'regions', 'around', 'the', 'world'], keywords in news: [('bill', 5), ('mormon', 5), ('state', 4), ('group', 4), ('society', 3), ('porn', 3), ('church', 3), ('pornography', 3), ('adult', 2), ('u', 2)], score: 45.32789152327355
+news id: 16, caption: ['the', 'historical', 'homicide', 'rate', 'in', 'stockholm', 'since', '1400nbspad', 'the', 'murder', 'rate', 'was', 'very', 'high', 'in', 'the', 'middle', 'ages', 'the', 'rate', 'has', 'declined', 'greatly', 'from', '45', '100000', 'to', 'a', 'low', 'of', '06', 'in', 'the', '1950s', 'the', 'last', 'decades', 'have', 'seen', 'the', 'homicide', 'rate', 'rise', 'slowly'], keywords in news: [('west', 4), ('key', 4), ('murder', 4), ('rutherfordbrown', 4), ('chicago', 4), ('base', 3), ('rutherfordbrown’s', 2), ('jacqueline', 2), ('u', 2), ('allegedly', 2)], score: 30.891002205510237
+news id: 3, caption: ['annual', 'incidence', 'of', 'mtbi', 'by', 'age', 'group', 'in', 'canada'], keywords in news: [('player', 7), ('nfl', 5), ('former', 4), ('settlement', 3), ('cte', 3), ('football', 3), ('group', 2), ('trauma', 2), ('brain', 2), ('head', 2)], score: 27.29126130832021
+news id: 14, caption: ['personal', 'computers', 'worldwide', 'in', 'million', 'distinguished', 'by', 'developed', 'and', 'developing', 'world'], keywords in news: [('intel', 5), ('company', 5), ('computer', 4), ('would', 3), ('cut', 3), ('job', 3), ('year', 2), ('also', 2), ('u', 2), ('personal', 2)], score: 54.88037911774788
+news id: 22, caption: ['obama', 'won', 'reelection', 'with', '332', 'electoral', 'votes', 'and', '511', 'of', 'the', 'popular', 'vote'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 22.97132807339629
+news id: 39, caption: ['maximum', 'outofpocket', 'premium', 'as', 'percentage', 'of', 'family', 'income', 'and', 'federal', 'poverty', 'level', 'under', 'patient', 'protection', 'and', 'affordable', 'care', 'act', 'starting', 'in', '2014', 'source', 'crs'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 27.900785576950693
+news id: 40, caption: ['the', 'nyse', 'euronext', 'logo', 'from', '2007', 'to', '2012'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 28.007927831474994
+news id: 14, caption: ['an', 'exploded', 'view', 'of', 'a', 'modern', 'personal', 'computer', 'and', 'peripherals'], keywords in news: [('intel', 5), ('company', 5), ('computer', 4), ('would', 3), ('cut', 3), ('job', 3), ('year', 2), ('also', 2), ('u', 2), ('personal', 2)], score: 54.88037911774788
+news id: 22, caption: ['obamas', 'international', 'agreements', 'and', 'air', 'strikes'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 22.97132807339629
+news id: 5, caption: ['astronaut', 'photograph', 'of', 'houston', 'at', 'night'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 27.419969231527915
+news id: 15, caption: ['health', 'spending', 'per', 'capita', 'in', 'us', 'pppadjusted', 'compared', 'amongst', 'various', 'first', 'world', 'nations'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 18.38575660158132
+news id: 36, caption: ['several', 'sizes', 'of', 'button', 'and', 'coin', 'cell', 'with', '2', '9v', 'batteries', 'as', 'a', 'size', 'comparison', 'they', 'are', 'all', 'recycled', 'in', 'many', 'countries', 'since', 'they', 'contain', 'lead', 'mercury', 'and', 'cadmium'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 31.375231940619084
+news id: 37, caption: ['ballot', 'access', 'of', 'virgil', 'goode', 'in', 'the', '2012', 'us', 'presidential', 'election'], keywords in news: [('mr', 6), ('trump', 6), ('republican', 4), ('delegate', 4), ('election', 3), ('number', 2), ('party', 2), ('state', 2), ('senator', 2), ('cruz', 2)], score: 48.03257878149571
+news id: 4, caption: ['an', 'enlargeable', 'map', 'of', 'the', 'state', 'of', 'alaska'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 14, caption: ['the', 'intel', 'inside', 'logo', 'from', '1991', 'to', '2006'], keywords in news: [('intel', 5), ('company', 5), ('computer', 4), ('would', 3), ('cut', 3), ('job', 3), ('year', 2), ('also', 2), ('u', 2), ('personal', 2)], score: 30.972985312450348
+news id: 29, caption: ['pennsylvanias', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 39, caption: ['deficit', 'and', 'debt', 'increases', '2001–2015'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 19.771155233245075
+news id: 4, caption: ['an', 'enlargeable', 'topographical', 'map', 'of', 'the', 'state', 'of', 'alaska'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 29, caption: ['ohio', 'gubernatorial', '2010', 'election', 'results', 'kasich', 'won', '63', 'of', 'the', '88', 'counties'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 39, caption: ['most', 'arab', 'states', 'experienced', 'turmoil', 'during', 'the', 'arab', 'spring'], keywords in news: [('plan', 5), ('president', 4), ('u', 3), ('four', 3), ('mr', 3), ('court', 3), ('obama', 3), ('would', 2), ('congress', 2), ('programme', 2)], score: 19.771155233245075
+news id: 40, caption: ['the', 'graph', 'on', 'the', 'right', 'shows', 'three', 'pathways', 'to', 'meet', 'the', 'unfcccs', '2nbsp°c', 'target', 'labelled', 'global', 'technology', 'decentralised', 'solutions', 'and', 'consumption', 'change', 'each', 'pathway', 'shows', 'how', 'various', 'measures', 'eg', 'improved', 'energy', 'efficiency', 'increased', 'use', 'of', 'renewable', 'energy', 'could', 'contribute', 'to', 'emissions', 'reductions', 'image', 'credit', 'pbl', 'netherlands', 'environmental', 'assessment', 'agency', 'p177', 'report', 'no', '500062001', 'report', 'website'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 17.267931536804667
+news id: 4, caption: ['map', 'depicting', 'the', 'climate', 'zones', 'of', 'alaska'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 4, caption: ['alaska', 'map', 'of', 'köppen', 'climate', 'classification'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 4, caption: ['alaska', 'has', 'more', 'public', 'land', 'owned', 'by', 'the', 'federal', 'government', 'than', 'any', 'other', 'state'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 15, caption: ['measles', 'cases', 'reported', 'in', 'the', 'united', 'states', 'before', 'and', 'after', 'introduction', 'of', 'the', 'vaccine'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 18.38575660158132
+news id: 29, caption: ['marylands', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 29, caption: ['kasich', 'was', 'on', 'the', 'house', 'budget', 'committee', 'from', '19932001', 'and', 'was', 'the', 'chairman', 'from', '19952001', 'when', 'republicans', 'retook', 'the', 'house'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 29, caption: ['campaign', 'logo', 'for', 'governor', 'john', 'kasichs', '2016', 'presidential', 'campaign'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 29, caption: ['ohio', 'gubernatorial', '2014', 'election', 'results', 'kasich', 'won', '86', 'of', 'the', '88', 'counties'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 38, caption: ['the', 'hrc', 'equal', 'sign', 'logo', 'reworked', 'in', 'red', 'and', 'pink', 'to', 'show', 'particular', 'support', 'for', 'samesex', 'marriage'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 6.3236469799260835
+news id: 4, caption: ['an', 'enlargeable', 'map', 'of', 'the', 'boroughs', 'and', 'census', 'areas', 'of', 'the', 'state', 'of', 'alaska'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 4, caption: ['the', 'location', 'of', 'the', 'state', 'of', 'alaska', 'in', 'relation', 'to', 'the', 'rest', 'of', 'the', 'united', 'states', 'of', 'america'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 4, caption: ['alaskas', 'size', 'compared', 'with', 'the', '48', 'contiguous', 'states', 'albers', 'equalarea', 'conic', 'projection'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 4, caption: ['alaska', 'interstate', 'highways'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 26, caption: ['irans', 'total', 'debt', 'service', 'as', 'percent', 'of', 'exports', 'of', 'goods', 'services', 'and', 'income', 'increased', 'sixfold', 'between', '1990', 'and', '1997'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 1, caption: ['performance', 'of', 'the', 'various', 'types', 'of', 'fever', 'a', 'fever', 'continues', 'b', 'fever', 'continues', 'to', 'abrupt', 'onset', 'and', 'remission', 'c', 'fever', 'remittent', 'd', 'intermittent', 'fever', 'e', 'undulant', 'fever', 'f', 'relapsing', 'fever'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 7.717795743564184
+news id: 4, caption: ['1860', 'map', 'of', 'russian', 'america'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 4, caption: ['18px'], keywords in news: [('wagner', 6), ('student', 5), ('alaska', 5), ('hospital', 4), ('mountain', 4), ('university', 3), ('bear', 3), ('southeast', 2), ('haines', 2), ('monday', 2)], score: 14.760081763184186
+news id: 23, caption: ['flag', 'of', 'the', 'red', 'cross'], keywords in news: [('image', 8), ('japan', 7), ('quake', 7), ('people', 7), ('earthquake', 5), ('u', 5), ('japanese', 4), ('copyright', 4), ('caption', 4), ('still', 4)], score: 24.583674801119326
+news id: 26, caption: ['the', 'great', 'seljuq', 'empire', 'in', '1092', 'upon', 'the', 'death', 'of', 'malik', 'shah', 'i', 'this', 'map', 'varies', 'from', 'other', 'maps', 'which', 'are', 'slightly', 'different', 'in', 'scope', 'especially', 'along', 'the', 'mediterranean', 'and', 'the', 'black', 'sea'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 26, caption: ['money', 'flow', 'chart'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 26, caption: ['military', 'expenditures', 'gdp'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 26, caption: ['national', 'budget', 'expenditures', 'for', 'social', 'and', 'economic', 'purposes', 'fiscal', 'year', '2004', 'government', 'spending', 'as', 'percent', 'of', 'total', 'budget', 'was', '6', 'for', 'health', 'care', '16', 'for', 'education', 'and', '8', 'for', 'the', 'military', 'in', 'the', 'period', '1992–2000', 'and', 'contributed', 'to', 'an', 'average', 'annual', 'inflation', 'rate', 'of', '14', 'percent', 'in', 'the', 'period', '2000–2008'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 26, caption: ['us', 'dollariranian', 'rial', 'exchange', 'rate', '20032014', 'est'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 29, caption: ['ohios', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 29, caption: ['north', 'carolinas', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 29, caption: ['kentuckys', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 29, caption: ['georgias', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 29, caption: ['missouris', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 25.601171371210853
+news id: 13, caption: ['logo', 'for', 'the', 'organization', 'of', 'american', 'states'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 8.985081341528376
+news id: 26, caption: ['iran', 'in', 'the', '20th', 'century'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 26, caption: ['irans', 'balance', 'of', 'payment', '20032007'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 11.818014251228584
+news id: 31, caption: ['us', 'healthcare', 'costs', 'per', 'capita', '20002011'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 31, caption: ['medicaid', 'expansion', 'by', 'state'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 31, caption: ['healthcare', 'cost', 'percentage', 'increases', '20002011'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 31, caption: ['physicians', 'per', '1000', 'vs', 'health', 'care', 'spending', 'in', '2008', 'for', 'oecd', 'countries', 'the', 'data', 'source', 'is', 'httpwwwoecdorg'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 21, caption: ['types', 'of', 'cannabis'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 19.635054972747273
+news id: 27, caption: ['colors', 'higher', 'in', 'the', 'list', 'override', 'those', 'lower', 'down', 'rings', 'individual', 'cases'], keywords in news: [('state', 6), ('city', 6), ('jackson', 5), ('north', 5), ('law', 4), ('southern', 4), ('new', 4), ('legislature', 3), ('gay', 3), ('carolina', 3)], score: 6.436842627324987
+news id: 33, caption: ['gender', 'pay', 'gap', 'in', 'average', 'gross', 'hourly', 'earnings', 'according', 'to', 'eurostat', '2008'], keywords in news: [('policy', 6), ('transgender', 6), ('student', 5), ('toilet', 5), ('federal', 5), ('u', 4), ('sex', 4), ('law', 4), ('people', 4), ('discrimination', 3)], score: 22.48142570243955
+news id: 17, caption: ['marginal', 'and', 'effective', 'federal', 'income', 'tax', 'rates', 'in', 'the', 'us', 'for', '2013'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 27, caption: ['legal', 'status', 'of', 'adoption', 'by', 'samesex', 'couples', 'around', 'the', 'world', '1in', 'finland', 'a', 'law', 'will', 'come', 'into', 'force', 'in', '2017', '2in', 'estonia', 'a', 'law', 'will', 'come', 'into', 'force', 'in', '2016'], keywords in news: [('state', 6), ('city', 6), ('jackson', 5), ('north', 5), ('law', 4), ('southern', 4), ('new', 4), ('legislature', 3), ('gay', 3), ('carolina', 3)], score: 6.436842627324987
+news id: 27, caption: ['samesex', 'marriage', 'map', 'oceania'], keywords in news: [('state', 6), ('city', 6), ('jackson', 5), ('north', 5), ('law', 4), ('southern', 4), ('new', 4), ('legislature', 3), ('gay', 3), ('carolina', 3)], score: 6.436842627324987
+news id: 31, caption: ['medicare', 'and', 'medicaid', 'spending', 'as', 'gdp', '2013'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 17, caption: ['federal', 'receipts', 'by', 'source', 'as', 'share', 'of', 'total', 'receipts', '1950–2010', 'individual', 'income', 'taxes', 'blue', 'payroll', 'taxesfica', 'green', 'corporate', 'income', 'taxes', 'red', 'excise', 'taxes', 'purple', 'estate', 'and', 'gift', 'taxes', 'light', 'blue', 'other', 'receipts', 'orange'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 17, caption: ['historical', 'federal', 'marginal', 'tax', 'rates', 'for', 'income', 'for', 'the', 'lowest', 'and', 'highest', 'income', 'earners', 'in', 'the', 'us'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 17, caption: ['cbo', 'data', 'shares', 'of', 'market', 'income', 'and', 'net', 'federal', 'taxes', 'by', 'income', 'group', '2010'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 1, caption: ['countries', 'described', 'as', 'advanced', 'economies', 'by', 'the', 'imf'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 4.412690136906335
+news id: 1, caption: ['regional', 'offices', 'and', 'regions', 'of', 'the', 'who'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 4.412690136906335
+news id: 10, caption: ['the', 'kurdish', 'flag', 'flies', 'over', 'cities', 'in', 'the', 'kurdish', 'statelet', 'that', 'has', 'emerged', 'in', 'northeastern', 'syria'], keywords in news: [('syrian', 8), ('government', 6), ('image', 4), ('maarat', 4), ('strike', 4), ('province', 4), ('group', 4), ('people', 4), ('alnuman', 4), ('idlib', 4)], score: 12.3614315519791
+news id: 27, caption: ['recognition', 'of', 'samesex', 'unions', 'in', 'the', 'lesser', 'antilles'], keywords in news: [('state', 6), ('city', 6), ('jackson', 5), ('north', 5), ('law', 4), ('southern', 4), ('new', 4), ('legislature', 3), ('gay', 3), ('carolina', 3)], score: 6.436842627324987
+news id: 13, caption: ['a', 'general', 'map', 'of', 'cuba'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 26.206993913691488
+news id: 17, caption: ['map', 'of', 'usa', 'showing', 'states', 'with', 'no', 'state', 'individual', 'income', 'tax', 'in', 'red', 'and', 'states', 'that', 'tax', 'individuals', 'only', 'interest', 'and', 'dividend', 'income', 'in', 'yellow'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 17, caption: ['cbo', 'data', 'shares', 'of', 'market', 'income', 'and', 'net', 'federal', 'taxes', 'by', 'income', 'group', '2010', '99', 'and', '1'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 31, caption: ['health', 'care', 'cost', 'rise', 'based', 'on', 'total', 'expenditure', 'on', 'health', 'as', 'of', 'gdp', 'countries', 'are', 'usa', 'germany', 'austria', 'switzerland', 'united', 'kingdom', 'and', 'canada'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 31, caption: ['health', 'expenditure', 'per', 'capita', 'in', 'pppadjusted', 'us', 'among', 'several', 'oecd', 'member', 'nations', 'data', 'source', 'oecds', 'ilibrary'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 1, caption: ['the', 'laboratoire', 'médical', 'de', 'stanleyville', 'was', 'sited', 'at', 'the', 'city', 'now', 'known', 'as', 'kisangani'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 4.412690136906335
+news id: 1, caption: ['world', 'map', 'by', 'quartiles', 'of', 'human', 'development', 'index', 'in', '2014'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 4.412690136906335
+news id: 17, caption: ['cbo', 'median', 'income', 'tax', 'rates'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 31, caption: ['hospital', 'beds', 'per', '1000', 'vs', 'health', 'care', 'spending', 'in', '2008', 'for', 'oecd', 'countries', 'the', 'data', 'source', 'is', 'httpwwwoecdorg'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 31, caption: ['percentage', 'of', 'obese', 'population', 'in', '2010', 'data', 'source', 'oecds', 'ilibrary', 'httpstatsoecdorg', 'retrieved', '20131213'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 31, caption: ['percentage', 'of', 'overweight', 'or', 'obese', 'population', 'in', '2010', 'data', 'source', 'oecds', 'ilibrary', 'httpstatsoecdorg', 'retrieved', '20131212'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 17, caption: ['ratio', 'of', 'german', 'assets', 'in', 'tax', 'havens', 'to', 'german', 'gdpshafik', 'hebous', '2011', 'money', 'at', 'the', 'docks', 'of', 'tax', 'havens', 'a', 'guide', 'cesifo', 'working', 'paper', 'series', 'no', '3587', 'p', '9', 'havens', 'in', 'countries', 'with', 'tax', 'information', 'sharing', 'allowing', 'for', 'compliance', 'enforcement', 'have', 'been', 'in', 'decline', 'the', 'big', '7', 'shown', 'are', 'hong', 'kong', 'ireland', 'lebanon', 'liberia', 'panama', 'singapore', 'and', 'switzerland'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 17, caption: ['german', 'tax', 'rate', 'on', 'corporate', 'income', '19952009'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 17, caption: ['german', 'income', 'tax', 'rate', 'in', '2010', 'as', 'a', 'function', 'of', 'taxable', 'income'], keywords in news: [('industry', 7), ('percent', 5), ('tax', 4), ('job', 4), ('gun', 4), ('nearly', 4), ('increase', 4), ('government', 4), ('2008', 3), ('revenue', 3)], score: 11.006294769552467
+news id: 31, caption: ['health', 'care', 'in', 'israel', 'as', 'a', 'percentage', 'of', 'gdp'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 31, caption: ['chart', 'comparing', '2008', 'health', 'care', 'spending', 'left', 'vs', 'life', 'expectancy', 'right', 'in', 'oecd', 'countries'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 29.659768523669765
+news id: 13, caption: ['family', 'tree', 'of', 'raúl', 'castro'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 13.064204855871843
+news id: 32, caption: ['personal', 'computers', 'worldwide', 'in', 'million', 'distinguished', 'by', 'developed', 'and', 'developing', 'world'], keywords in news: [('company', 4), ('would', 3), ('billion', 3), ('share', 3), ('intel', 2), ('quarter', 2), ('cent', 2), ('percent', 2), ('per', 2), ('medhora', 1)], score: 15.528055392913883
+news id: 7, caption: ['maximum', 'outofpocket', 'premium', 'as', 'percentage', 'of', 'family', 'income', 'and', 'federal', 'poverty', 'level', 'under', 'patient', 'protection', 'and', 'affordable', 'care', 'act', 'starting', 'in', '2014', 'source', 'crs'], keywords in news: [('mr', 5), ('legal', 4), ('immigrant', 4), ('like', 3), ('bolivia', 3), ('year', 3), ('pinto', 3), ('parent', 3), ('illegally', 3), ('without', 3)], score: 0
+news id: 7, caption: ['employment', 'statistics', 'changes', 'in', 'unemployment', 'rate', 'and', 'net', 'jobs', 'per', 'month', 'during', 'obamas', 'tenure', 'as', 'us', 'president'], keywords in news: [('mr', 5), ('legal', 4), ('immigrant', 4), ('like', 3), ('bolivia', 3), ('year', 3), ('pinto', 3), ('parent', 3), ('illegally', 3), ('without', 3)], score: 0
+news id: 19, caption: ['waste', 'disposal', 'inc', 'superfund', 'site'], keywords in news: [('water', 14), ('would', 6), ('mr', 6), ('snyder', 5), ('flint', 5), ('tap', 4), ('resident', 4), ('filtered', 3), ('gov', 3), ('home', 2)], score: 9.413372059797307
+news id: 35, caption: ['seal', 'of', 'the', 'united', 'states', 'public', 'health', 'service'], keywords in news: [('health', 3), ('resolution', 2), ('bill', 2), ('one', 2), ('individual', 1), ('“epidemic”', 1), ('measure', 1), ('specific', 1), ('governor', 1), ('law', 1)], score: 26.08410584921033
+news id: 2, caption: ['global', 'distribution', 'of', 'lds', 'church', 'members', 'in', '2009'], keywords in news: [('bill', 5), ('mormon', 5), ('state', 4), ('group', 4), ('society', 3), ('porn', 3), ('church', 3), ('pornography', 3), ('adult', 2), ('u', 2)], score: 23.852483694763105
+news id: 5, caption: ['city', 'limits', 'of', 'austin'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 0
+news id: 29, caption: ['massachusettss', 'congressional', 'districts', 'since', '2013'], keywords in news: [('york', 5), ('new', 5), ('hillary', 4), ('home', 3), ('u', 3), ('supporter', 2), ('coverage', 2), ('state', 2), ('clinton', 2), ('sander', 2)], score: 19.771155233245075
+news id: 32, caption: ['an', 'exploded', 'view', 'of', 'a', 'modern', 'personal', 'computer', 'and', 'peripherals'], keywords in news: [('company', 4), ('would', 3), ('billion', 3), ('share', 3), ('intel', 2), ('quarter', 2), ('cent', 2), ('percent', 2), ('per', 2), ('medhora', 1)], score: 15.528055392913883
+news id: 7, caption: ['county', 'results', 'of', 'the', '2004', 'us', 'senate', 'race', 'in', 'illinois', 'obama', 'won', 'the', 'counties', 'in', 'blue'], keywords in news: [('mr', 5), ('legal', 4), ('immigrant', 4), ('like', 3), ('bolivia', 3), ('year', 3), ('pinto', 3), ('parent', 3), ('illegally', 3), ('without', 3)], score: 0
+news id: 7, caption: ['deficit', 'and', 'debt', 'increases', '2001–2015'], keywords in news: [('mr', 5), ('legal', 4), ('immigrant', 4), ('like', 3), ('bolivia', 3), ('year', 3), ('pinto', 3), ('parent', 3), ('illegally', 3), ('without', 3)], score: 0
+news id: 35, caption: ['john', 'snows', 'dot', 'map', 'showing', 'the', 'clusters', 'of', 'cholera', 'cases', 'in', 'the', 'london', 'epidemic', 'of', '1854'], keywords in news: [('health', 3), ('resolution', 2), ('bill', 2), ('one', 2), ('individual', 1), ('“epidemic”', 1), ('measure', 1), ('specific', 1), ('governor', 1), ('law', 1)], score: 26.08410584921033
+news id: 37, caption: ['perot', 'winning', 'counties', 'and', 'states', 'by', 'percentage'], keywords in news: [('mr', 6), ('trump', 6), ('republican', 4), ('delegate', 4), ('election', 3), ('number', 2), ('party', 2), ('state', 2), ('senator', 2), ('cruz', 2)], score: 5.83001613796578
+news id: 40, caption: ['changes', 'in', 'total', 'solar', 'irradiance', 'tsi', 'and', 'monthly', 'sunspot', 'numbers', 'since', 'the', 'mid1970s'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 3, caption: ['brain'], keywords in news: [('player', 7), ('nfl', 5), ('former', 4), ('settlement', 3), ('cte', 3), ('football', 3), ('group', 2), ('trauma', 2), ('brain', 2), ('head', 2)], score: 8.986821969719145
+news id: 14, caption: ['schematic', 'structure', 'of', 'a', 'cmos', 'chip', 'as', 'built', 'in', 'the', 'early', '2000s', 'the', 'graphic', 'shows', 'lddmisfets', 'on', 'an', 'soi', 'substrate', 'with', 'five', 'metallization', 'layers', 'and', 'solder', 'bump', 'for', 'flipchip', 'bonding', 'it', 'also', 'shows', 'the', 'section', 'for', 'feol', 'frontend', 'of', 'line', 'beol', 'backend', 'of', 'line', 'and', 'first', 'parts', 'of', 'backend', 'process'], keywords in news: [('intel', 5), ('company', 5), ('computer', 4), ('would', 3), ('cut', 3), ('job', 3), ('year', 2), ('also', 2), ('u', 2), ('personal', 2)], score: 36.309223808514
+news id: 19, caption: ['the', 'administrative', 'regions', 'of', 'the', 'united', 'states', 'environmental', 'protection', 'agency'], keywords in news: [('water', 14), ('would', 6), ('mr', 6), ('snyder', 5), ('flint', 5), ('tap', 4), ('resident', 4), ('filtered', 3), ('gov', 3), ('home', 2)], score: 0
+news id: 32, caption: ['the', 'intel', 'inside', 'logo', 'from', '1991', 'to', '2006'], keywords in news: [('company', 4), ('would', 3), ('billion', 3), ('share', 3), ('intel', 2), ('quarter', 2), ('cent', 2), ('percent', 2), ('per', 2), ('medhora', 1)], score: 20.096980466717383
+news id: 14, caption: ['diagram', 'of', 'a', 'generic', 'dualcore', 'processor', 'with', 'cpulocal', 'level1', 'caches', 'and', 'a', 'shared', 'ondie', 'level2', 'cache'], keywords in news: [('intel', 5), ('company', 5), ('computer', 4), ('would', 3), ('cut', 3), ('job', 3), ('year', 2), ('also', 2), ('u', 2), ('personal', 2)], score: 15.951243552865694
+news id: 21, caption: ['the', 'chinese', 'character', 'for', 'hemp', '麻', 'or', 'má', 'depicts', 'two', 'plants', 'under', 'a', 'shelter', 'cannabis', 'cultivation', 'dates', 'back', 'at', 'least', '3000', 'years', 'in', 'taiwan'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 37, caption: ['interest', 'rate', 'crisis', 'of', '1980'], keywords in news: [('mr', 6), ('trump', 6), ('republican', 4), ('delegate', 4), ('election', 3), ('number', 2), ('party', 2), ('state', 2), ('senator', 2), ('cruz', 2)], score: 5.83001613796578
+news id: 35, caption: ['world', 'map', 'of', 'pornography', '18', 'laws'], keywords in news: [('health', 3), ('resolution', 2), ('bill', 2), ('one', 2), ('individual', 1), ('“epidemic”', 1), ('measure', 1), ('specific', 1), ('governor', 1), ('law', 1)], score: 2.697421882313031
+news id: 40, caption: ['atmospheric', 'co2', 'concentration', 'from', '650000', 'years', 'ago', 'to', 'near', 'present', 'using', 'ice', 'core', 'proxy', 'data', 'and', 'direct', 'measurements'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 40, caption: ['contribution', 'of', 'natural', 'factors', 'and', 'human', 'activities', 'to', 'radiative', 'forcing', 'of', 'climate', 'changeipcc', 'summary', 'for', 'policymakers', 'human', 'and', 'natural', 'drivers', 'of', 'climate', 'change', 'figure', 'spm2', 'in', 'radiative', 'forcing', 'values', 'are', 'for', 'the', 'year', '2005', 'relative', 'to', 'the', 'preindustrial', 'era', '1750', 'the', 'contribution', 'of', 'solar', 'irradiance', 'to', 'radiative', 'forcing', 'is', '5', 'the', 'value', 'of', 'the', 'combined', 'radiative', 'forcing', 'due', 'to', 'increases', 'in', 'the', 'atmospheric', 'concentrations', 'of', 'carbon', 'dioxide', 'methane', 'and', 'nitrous', 'oxide'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 40, caption: ['earth', 'has', 'been', 'in', 'radiative', 'imbalance', 'since', 'at', 'least', 'the', '1970s', 'where', 'less', 'energy', 'leaves', 'the', 'atmosphere', 'than', 'enters', 'it', 'most', 'of', 'this', 'extra', 'energy', 'has', 'been', 'absorbed', 'by', 'the', 'oceans', 'rhein', 'm', 'et', 'al', 'june', '7', '2013', 'box', '31', 'in', 'chapter', '3', 'observations', 'ocean', 'final', 'draft', 'accepted', 'by', 'ipcc', 'working', 'group', 'i', 'pp1112', 'pp1415', 'of', 'pdf', 'chapter', 'in', 'it', 'is', 'very', 'likely', 'that', 'human', 'activities', 'substantially', 'contributed', 'to', 'this', 'increase', 'in', 'ocean', 'heat', 'content', 'ipcc', 'november', '11', '2013', 'd3', 'detection', 'and', 'attribution', 'of', 'climate', 'change', 'in', 'summary', 'for', 'policymakers', 'finalized', 'version', 'p15', 'in'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 15.904937791122457
+news id: 40, caption: ['sparse', 'records', 'indicate', 'that', 'glaciers', 'have', 'been', 'retreating', 'since', 'the', 'early', '1800s', 'in', 'the', '1950s', 'measurements', 'began', 'that', 'allow', 'the', 'monitoring', 'of', 'glacial', 'mass', 'balance', 'reported', 'to', 'the', 'world', 'glacier', 'monitoring', 'service', 'wgms', 'and', 'the', 'national', 'snow', 'and', 'ice', 'data', 'center', 'nsidc'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 40, caption: ['projections', 'of', 'global', 'mean', 'sea', 'level', 'rise', 'by', 'parris', 'and', 'others', 'probabilities', 'have', 'not', 'been', 'assigned', 'to', 'these', 'projections', 'executive', 'summary', 'in', 'therefore', 'none', 'of', 'these', 'projections', 'should', 'be', 'interpreted', 'as', 'a', 'best', 'estimate', 'of', 'future', 'sea', 'level', 'rise', 'image', 'credit', 'noaa'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 40, caption: ['article', '2', 'of', 'the', 'un', 'framework', 'convention', 'refers', 'explicitly', 'to', 'stabilization', 'of', 'greenhouse', 'gas', 'concentrationsquoted', 'in', 'synthesis', 'of', 'scientifictechnical', 'information', 'relevant', 'to', 'interpreting', 'article', '2', 'of', 'the', 'un', 'framework', 'convention', 'on', 'climate', 'change', 'paragraph', '41', 'p', '8', 'pdf', 'p', '18', 'to', 'stabilize', 'the', 'atmospheric', 'concentration', 'of', 'emissions', 'worldwide', 'would', 'need', 'to', 'be', 'dramatically', 'reduced', 'from', 'their', 'present', 'level'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 40, caption: ['the', 'dow', 'fell', '143', 'from', 'the', 'mid9000', 'level', 'to', 'the', 'low', '8000', 'level', 'after', 'the', 'september', '11', '2001', 'attacks', 'exchanges', 'were', 'closed', 'between', 'september', '11', 'and', '17'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 35, caption: ['the', 'new', 'england', 'region', 'of', 'the', 'united', 'states', 'is', 'shaded', 'in', 'red', 'above'], keywords in news: [('health', 3), ('resolution', 2), ('bill', 2), ('one', 2), ('individual', 1), ('“epidemic”', 1), ('measure', 1), ('specific', 1), ('governor', 1), ('law', 1)], score: 0
+news id: 35, caption: ['xxx', 'is', 'used', 'to', 'designate', 'pornographic', 'material', 'in', 'the', 'us', 'and', 'other', 'regions', 'around', 'the', 'world'], keywords in news: [('health', 3), ('resolution', 2), ('bill', 2), ('one', 2), ('individual', 1), ('“epidemic”', 1), ('measure', 1), ('specific', 1), ('governor', 1), ('law', 1)], score: 0
+news id: 21, caption: ['in', 'a', '2011', 'survey', 'of', '292', 'clinical', 'experts', 'in', 'scotland', 'cannabis', 'ranked', 'last', 'in', 'personal', 'harm', 'and', '18th', 'in', 'social', 'harm', 'out', 'of', '19', 'common', 'recreational', 'drugs'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 21, caption: ['main', 'shortterm', 'physical', 'effects', 'of', 'cannabis'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 40, caption: ['noaa', 'graph', 'of', 'global', 'annual', 'temperature', 'anomalies', '1950–2012', 'showing', 'the', 'el', 'niño', 'southern', 'oscillation'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 15, caption: ['the', 'relationship', 'between', 'a', 'familys', 'poverty', 'level', 'and', 'the', 'percentage', 'of', 'their', 'income', 'that', 'is', 'allotted', 'to', 'pay', 'for', 'health', 'insurance', 'note', 'that', 'the', 'senate', 'bill', 'provides', 'for', 'medicaid', 'coverage', 'up', 'to', '133', 'of', 'the', 'federal', 'poverty', 'level', 'while', 'the', 'house', 'bill', 'provides', 'for', 'medicaid', 'coverage', 'up', 'to', '150', 'of', 'the', 'federal', 'poverty', 'level', 'adapted', 'from', 'the', 'texts', 'of', 'the', 'house', 'bill', 'and', 'senate', 'bill'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 22.814164406255767
+news id: 36, caption: ['the', 'fates', 'of', 'different', 'elements', 'present', 'in', 'copper', 'scrap', 'which', 'is', 'melted', 'in', 'a', 'furnace', 'the', 'average', 'of', 'the', 'two', 'extremes', 'is', 'shown', 'and', 'the', 'error', 'bars', 'indicate', 'the', 'possible', 'limits', 'the', 'elements', 'present', 'in', 'the', 'scrap', 'end', 'up', 'in', 'different', 'proportions', 'in', 'the', 'impure', 'metal', 'the', 'slag', 'the', 'baghouse', 'dust', 'or', 'the', 'exhaust', 'gases', 'that', 'leave', 'the', 'plant', 'via', 'the', 'stack'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 40, caption: ['chart', 'of', 'the', 'major', 'energy', 'companies', 'dubbed', 'big', 'oil', 'sorted', 'by', 'latest', 'published', 'revenue'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 36, caption: ['the', 'fates', 'of', 'different', 'elements', 'present', 'in', 'aluminium', 'scrap', 'which', 'is', 'melted', 'in', 'a', 'furnace', 'the', 'average', 'of', 'the', 'two', 'extremes', 'is', 'shown', 'and', 'the', 'error', 'bars', 'indicate', 'the', 'possible', 'limits'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 40, caption: ['map', 'of', 'exxon', 'stores', 'in', 'the', 'united', 'states'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 15, caption: ['changes', 'in', 'coverage', 'under', 'house', 'and', 'senate', 'bills'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 36, caption: ['the', 'fates', 'of', 'different', 'elements', 'present', 'in', 'copper', 'scrap', 'which', 'is', 'melted', 'in', 'a', 'furnace', 'and', 'then', 'electrorefined', 'the', 'average', 'of', 'the', 'two', 'extremes', 'is', 'shown', 'and', 'the', 'error', 'bars', 'indicate', 'the', 'possible', 'limits', 'the', 'elements', 'in', 'the', 'scrap', 'end', 'up', 'in', 'different', 'proportions', 'in', 'the', 'refined', 'copper', 'metal', 'the', 'slag', 'the', 'baghouse', 'dust', 'the', 'exhaust', 'gases', 'that', 'leave', 'the', 'plant', 'via', 'the', 'stack', 'or', 'the', 'anode', 'slime'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 36, caption: ['motherboard', 'for', 'an', 'acer', 'desktop', 'personal', 'computer', 'showing', 'the', 'typical', 'components', 'and', 'interfaces', 'that', 'are', 'found', 'on', 'a', 'motherboard', 'this', 'model', 'was', 'made', 'by', 'foxconn', 'in', '2007', 'and', 'follows', 'the', 'atx', 'layout', 'known', 'as', 'the', 'form', 'factor', 'usually', 'employed', 'for', 'desktop', 'computers', 'it', 'is', 'designed', 'to', 'work', 'with', 'amds', 'athlon', '64', 'processor'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 40, caption: ['map', 'of', 'the', 'earth', 'with', 'a', 'sixmeter', 'sea', 'level', 'rise', 'represented', 'in', 'red'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 15, caption: ['uninsured', 'americans', 'with', 'the', 'numbers', 'shown', 'here', 'from', '1987', 'to', '2008', 'are', 'a', 'major', 'driver', 'for', 'reform', 'efforts'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 36, caption: ['the', 'fates', 'of', 'different', 'elements', 'present', 'in', 'ferrous', 'scrap', 'which', 'is', 'melted', 'in', 'an', 'electric', 'arc', 'furnace', 'the', 'average', 'of', 'the', 'two', 'extremes', 'is', 'shown', 'and', 'the', 'error', 'bars', 'indicate', 'the', 'possible', 'limits'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 21, caption: ['cannabinol'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 21, caption: ['cannabidivarin'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 21, caption: ['cannabivarin'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 21, caption: ['a', 'vaporization', 'pipe', 'with', 'flame', 'filter', '28', 'insert', 'cannabis', 'other', 'herbs', 'or', 'essential', 'oils', 'here', '36', 'flame', 'filter', 'prevents', 'flame', 'from', 'igniting', 'herb', 'which', 'instead', 'is', 'heated', 'to', 'vaporization', 'temperature'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 26, caption: ['the', 'location', 'of', 'shale', 'gas', 'compared', 'to', 'other', 'types', 'of', 'gas', 'deposits'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 40, caption: ['djia', 'monthly', 'trading', 'volume', 'in', 'shares', 'from', '1929', 'to', '2012'], keywords in news: [('new', 3), ('york', 2), ('email', 1), ('collaboration', 1), ('deep', 1), ('democratic', 1), ('stock', 1), ('whether', 1), ('logo', 1), ('truth', 1)], score: 0
+news id: 1, caption: ['countries', 'by', 'world', 'health', 'organization', 'membership', 'status'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 0
+news id: 15, caption: ['us', 'insurance', 'health', 'life', 'property', 'and', 'car', 'insurance', 'industry', 'related', 'political', 'contributions', 'from', '1990', 'to', '2010'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 15, caption: ['percentage', 'of', 'people', 'without', 'health', 'insurance', 'coverage', 'by', 'state', 'in', '2009', 'darker', 'means', 'higher', 'percentage'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 21, caption: ['tetrahydrocannabivarin'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 26, caption: ['us', 'natural', 'gas', 'marketed', 'production', '1900', 'to', '2012', 'source', 'us', 'eia'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 31, caption: ['undocumented', 'immigrant', 'entrees', 'in', 'us', 'between', '19802009'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['the', 'income', 'and', 'substitution', 'effects', 'of', 'a', 'wage', 'increase'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['the', 'labour', 'supply', 'curve'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['effects', 'of', 'a', 'wage', 'increase'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 36, caption: ['the', '3', 'chasing', 'arrows', 'of', 'the', 'international', 'recycling', 'logo'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 5, caption: ['texas', 'map', 'of', 'köppen', 'climate', 'classification'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 0
+news id: 5, caption: ['texas', 'population', 'density', 'map'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 0
+news id: 15, caption: ['budgetary', 'impact', 'of', 'house', 'and', 'senate', 'bills'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 21, caption: ['the', 'structural', 'formula', 'of', 'tetrahydrocannabinol'], keywords in news: [('marijuana', 4), ('state', 4), ('legalization', 4), ('new', 4), ('bill', 3), ('people', 3), ('washington', 2), ('would', 2), ('abuse', 2), ('heroin', 2)], score: 0
+news id: 22, caption: ['most', 'arab', 'states', 'experienced', 'turmoil', 'during', 'the', 'arab', 'spring'], keywords in news: [('care', 10), ('health', 8), ('year', 6), ('high', 6), ('new', 6), ('study', 5), ('affordable', 4), ('medical', 4), ('act', 4), ('coverage', 4)], score: 0
+news id: 26, caption: ['schematic', 'flow', 'diagram', 'of', 'a', 'typical', 'natural', 'gas', 'processing', 'plant'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['natural', 'gas', 'extraction', 'by', 'countries', 'in', 'cubic', 'meters', 'per', 'year'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 36, caption: ['the', 'european', 'committee', 'for', 'standardization', 'logo', 'for', 'aluminium'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 36, caption: ['an', 'aluminium', 'recycling', 'symbol'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 36, caption: ['the', 'cen', 'symbol', 'for', 'recyclable', 'steel'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 36, caption: ['the', 'universal', 'symbol', 'for', 'recyclable', 'steel'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 36, caption: ['aluminium', 'dross'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 38, caption: ['kinseys', 'scale', 'of', 'sexual', 'responses', 'indicating', 'the', 'varying', 'degrees', 'of', 'bisexuality'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 0
+news id: 1, caption: ['hyperthermia', 'characterized', 'on', 'the', 'left', 'normal', 'body', 'temperature', 'thermoregulatory', 'set', 'point', 'is', 'shown', 'in', 'green', 'while', 'the', 'hyperthermic', 'temperature', 'is', 'shown', 'in', 'red', 'as', 'can', 'be', 'seen', 'hyperthermia', 'can', 'be', 'conceptualized', 'as', 'an', 'increase', 'above', 'the', 'thermoregulatory', 'set', 'pointhypothermia', 'characterized', 'in', 'the', 'center', 'normal', 'body', 'temperature', 'is', 'shown', 'in', 'green', 'while', 'the', 'hypothermic', 'temperature', 'is', 'shown', 'in', 'blue', 'as', 'can', 'be', 'seen', 'hypothermia', 'can', 'be', 'conceptualized', 'as', 'a', 'decrease', 'below', 'the', 'thermoregulatory', 'set', 'pointfever', 'characterized', 'on', 'the', 'right', 'normal', 'body', 'temperature', 'is', 'shown', 'in', 'green', 'it', 'reads', 'new', 'normal', 'because', 'the', 'thermoregulatory', 'set', 'point', 'has', 'risen', 'this', 'has', 'caused', 'what', 'was', 'the', 'normal', 'body', 'temperature', 'in', 'blue', 'to', 'be', 'considered', 'hypothermic'], keywords in news: [('polio', 14), ('vaccine', 12), ('country', 7), ('year', 6), ('case', 5), ('type', 5), ('virus', 5), ('2', 4), ('disease', 4), ('switchover', 3)], score: 0
+news id: 5, caption: ['mexico', 'in', '1824', 'coahuila', 'y', 'tejas', 'is', 'the', 'northeasternmost', 'state'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 0
+news id: 5, caption: ['proposals', 'of', '1850', 'for', 'texas', 'northwestern', 'boundary'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 0
+news id: 5, caption: ['republic', 'of', 'texas', 'the', 'presentday', 'outlines', 'of', 'the', 'us', 'states', 'superimposed', 'on', 'the', 'boundaries', 'of', '1836–1845'], keywords in news: [('water', 8), ('county', 7), ('houston', 6), ('home', 4), ('rain', 4), ('people', 4), ('freeway', 3), ('also', 3), ('two', 3), ('school', 3)], score: 0
+news id: 13, caption: ['maximum', 'outofpocket', 'premium', 'as', 'percentage', 'of', 'family', 'income', 'and', 'federal', 'poverty', 'level', 'under', 'patient', 'protection', 'and', 'affordable', 'care', 'act', 'starting', 'in', '2014', 'source', 'crs'], keywords in news: [('party', 5), ('state', 5), ('cuba', 4), ('congress', 4), ('united', 4), ('call', 3), ('castro', 3), ('cuban', 3), ('communist', 3), ('rodriguez', 3)], score: 0
+news id: 15, caption: ['senate', 'vote', 'by', 'state'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 15, caption: ['house', 'vote', 'by', 'congressional', 'district'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 15, caption: ['logo', 'of', 'the', 'united', 'states', 'department', 'of', 'health', 'and', 'human', 'services', 'the', 'symbol', 'represents', 'the', 'american', 'people', 'sheltered', 'in', 'the', 'wing', 'of', 'the', 'american', 'eagle', 'suggesting', 'the', 'department’s', 'concern', 'and', 'responsibility', 'for', 'the', 'welfare', 'of', 'the', 'people'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 22.814164406255767
+news id: 15, caption: ['most', 'arab', 'states', 'experienced', 'turmoil', 'during', 'the', 'arab', 'spring'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 15, caption: ['obama', 'won', 'reelection', 'with', '332', 'electoral', 'votes', 'and', '511', 'of', 'the', 'popular', 'vote'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 15, caption: ['obamas', 'international', 'agreements', 'and', 'air', 'strikes'], keywords in news: [('drug', 10), ('cost', 8), ('medicare', 7), ('year', 5), ('prescription', 4), ('company', 4), ('would', 3), ('advisory', 3), ('outofpocket', 3), ('federal', 3)], score: 0
+news id: 26, caption: ['the', 'arabian', 'peninsula', 'in', '1914'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'first', 'saudi', 'state', '17441818'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'tribes', 'of', 'arabia', 'at', 'the', 'time', 'of', 'the', 'spread', 'of', 'islam', 'expandable', 'map'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'achaemenid', 'empire', 'at', 'its', 'greatest', 'extent'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['map', 'of', 'the', 'ilkhanate'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'khwarezmid', 'empire', 'at', 'its', 'zenith'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'islamic', 'conquest', 'of', 'persia'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['parthian', 'empire', 'at', 'its', 'greatest', 'extent', 'c60', 'bce'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'safavid', 'empire', 'at', 'its', 'greatest', 'extent'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'sassanid', 'empire', 'at', 'its', 'greatest', 'extent'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['flag', 'of', 'the', 'timurid', 'empire'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['trends', 'in', 'the', 'top', 'five', 'natural', 'gasproducing', 'countries', 'us', 'eia', 'data'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['the', 'global', 'natural', 'gas', 'trade', 'in', '2013', 'numbers', 'are', 'in', 'billion', 'cubic', 'meters', 'per', 'year'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['octane', 'a', 'hydrocarbon', 'found', 'in', 'petroleum', 'lines', 'represent', 'single', 'bonds', 'black', 'spheres', 'represent', 'carbon', 'white', 'spheres', 'represent', 'hydrogen'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['saudi', 'arabia', 'physical', 'features'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['saudi', 'arabia', 'political', 'map'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['provinces', 'of', 'saudi', 'arabia'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['saudi', 'arabia', 'topography', 'altitude', 'color', 'coded'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['kingdom', 'of', 'saudi', 'arabia', 'after', 'unification', 'in', '1932'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['saudi', 'arabia', 'population', 'density', 'people', 'per', 'km2'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 26, caption: ['saudi', 'arabia’s', 'köppen', 'climate', 'classification', 'map', 'is', 'based', 'on', 'native', 'vegetation', 'temperature', 'precipitation', 'and', 'their', 'seasonality'], keywords in news: [('oil', 15), ('opec', 10), ('price', 7), ('producer', 7), ('member', 7), ('meeting', 6), ('iran', 5), ('exporter', 4), ('crude', 4), ('would', 3)], score: 0
+news id: 31, caption: ['senate', 'vote', 'by', 'state'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['house', 'vote', 'by', 'congressional', 'district'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['a', 'firms', 'labour', 'demand', 'in', 'the', 'short', 'run'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['incomeleisure', 'tradeoff', 'in', 'the', 'short', 'run'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['the', 'marginal', 'physical', 'product', 'of', 'labour'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['budget', 'deficit', 'in', 'billions', 'of', 'dollars', '19712001', 'there', 'were', 'budget', 'surpluses', 'from', '19982001'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 31, caption: ['statewide', 'opinion', 'polling', 'for', 'the', '2008', 'united', 'states', 'presidential', 'election', 'up', 'to', 'november', '3', '2008states', 'are', 'colored', 'according', 'to', 'the', 'average', 'from', 'at', 'least', 'the', 'last', 'three', 'poll', 'results', 'from', 'statewide', 'opinion', 'polling', 'for', 'the', 'united', 'states', 'presidential', 'election', '2008', 'washington', 'dc', 'is', 'presumed', 'heavy', 'democrat', 'if', 'there', 'have', 'been', 'more', 'than', '3', 'polls', 'taken', 'within', 'a', 'month', 'of', 'the', 'latest', 'poll', 'then', 'these', 'are', 'averaged'], keywords in news: [('law', 7), ('coverage', 6), ('insurance', 6), ('rate', 5), ('year', 4), ('high', 4), ('health', 4), ('worker', 4), ('analysis', 4), ('people', 4)], score: 0
+news id: 34, caption: ['kushan', 'empire'], keywords in news: [('attack', 11), ('taliban', 8), ('afghan', 7), ('security', 7), ('force', 6), ('official', 4), ('attacker', 4), ('police', 4), ('image', 4), ('kabul', 4)], score: 0
+news id: 36, caption: ['block', 'diagram', 'of', 'a', 'modern', 'motherboard', 'which', 'supports', 'many', 'onboard', 'peripheral', 'functions', 'as', 'well', 'as', 'several', 'expansion', 'slots'], keywords in news: [('apple', 8), ('million', 6), ('iphone', 6), ('material', 5), ('year', 4), ('environmental', 4), ('pound', 4), ('gold', 4), ('silver', 3), ('last', 3)], score: 0
+news id: 38, caption: ['the', 'bisexual', 'pride', 'flag'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 0
+news id: 38, caption: ['the', 'overlapping', 'triangles'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 0
+news id: 38, caption: ['the', 'double', 'moon'], keywords in news: [('school', 7), ('law', 6), ('right', 5), ('carolina', 4), ('gender', 4), ('federal', 4), ('court', 4), ('north', 4), ('transgender', 4), ('ruling', 3)], score: 0
+31.285415932046092
+79.14931543314225
+53.71124308574907
+79.14931543314225
+51.71824331372153
+91.9784047584791
+139.93266519929873
+155.92995973239346
+155.92995973239346
+155.92995973239346
+93.25581971129341
+98.67250768082104
+96.72107252145116
+31.285415932046092
+53.71124308574907
+66.25186223021313
+51.71824331372153
+49.9411615352577
+49.9411615352577
+88.24600116635591
+76.45125475153775
+80.50806247983519
+79.23756679569466
+24.480713207679244
+24.480713207679244
+79.23756679569466
+56.61368883246406
+24.480713207679244
+66.93080984231173
+46.7876985048171
+69.55242215181745
+41.4531830346778
+66.93080984231173
+24.48613763754294
+52.86591865546803
+52.86591865546803
+46.58149189995791
+46.58149189995791
+69.86024456477459
+46.58149189995791
+46.58149189995791
+69.86024456477459
+46.58149189995791
+46.58149189995791
+72.39350124890191
+39.98837062135523
+56.01321605917934
+39.98837062135523
+75.29311627198024
+73.4539862863059
+39.98837062135523
+39.98837062135523
+62.42405033139583
+47.72734831294204
+54.98677926732638
+62.18972184306442
+62.42405033139583
+36.31354749348562
+37.58788716540751
+12.66269895645066
+63.44682341874815
+51.07002665850051
+63.44682341874815
+51.07002665850051
+36.58454721135499
+68.50489225214791
+37.58788716540751
+12.66269895645066
+12.66269895645066
+53.69751762337519
+37.58788716540751
+12.66269895645066
+12.66269895645066
+36.58454721135499
+12.66269895645066
+53.69751762337519
+40.448313629183616
+12.66269895645066
+53.28307150408561
+53.69751762337519
+70.9001052877591
+10.681504544177427
+27.196091524229754
+37.43629433026281
+37.80744411085796
+54.432465433732624
+34.04584100970648
+41.19992100783709
+57.875948792973034
+41.19992100783709
+42.72703740092744
+43.31465817603571
+44.02780783382386
+37.43629433026281
+43.31465817603571
+55.08856115138127
+42.72703740092744
+36.31354749348562
+44.633184031175524
+44.633184031175524
+47.92441149777346
+13.049837003546244
+45.11194290399413
+47.92441149777346
+14.59087396838558
+14.59087396838558
+57.47207606381883
+34.08038331460546
+35.74061044442184
+13.733212666644832
+13.733212666644832
+30.12124906319831
+18.34475966872098
+18.34475966872098
+41.95295628199084
+41.95295628199084
+41.95295628199084
+57.00998079142317
+28.918268329764537
+37.58788716540751
+37.58788716540751
+37.56332044991138
+30.468979211689444
+44.633184031175524
+44.633184031175524
+44.633184031175524
+46.47328498796859
+46.47328498796859
+40.81486959948133
+46.45209138480487
+27.900785576950693
+38.27504468708245
+27.900785576950693
+12.945501015984538
+38.27504468708245
+21.566731550803624
+17.578148866816726
+38.70006090713274
+40.69925276708779
+35.38857250175893
+35.38857250175893
+17.578148866816726
+17.578148866816726
+35.38857250175893
+23.346608765495855
+22.64362154920083
+14.607875685789836
+6.7992782945031545
+40.69925276708779
+22.64362154920083
+34.27667315954734
+17.578148866816726
+17.578148866816726
+14.607875685789836
+35.38857250175893
+20.31262834306165
+6.7992782945031545
+45.32789152327355
+30.891002205510237
+30.891002205510237
+45.32789152327355
+30.891002205510237
+27.29126130832021
+54.88037911774788
+22.97132807339629
+27.900785576950693
+28.007927831474994
+54.88037911774788
+22.97132807339629
+27.419969231527915
+18.38575660158132
+31.375231940619084
+48.03257878149571
+14.760081763184186
+30.972985312450348
+25.601171371210853
+19.771155233245075
+14.760081763184186
+25.601171371210853
+19.771155233245075
+17.267931536804667
+14.760081763184186
+14.760081763184186
+14.760081763184186
+18.38575660158132
+25.601171371210853
+25.601171371210853
+25.601171371210853
+25.601171371210853
+6.3236469799260835
+14.760081763184186
+14.760081763184186
+14.760081763184186
+14.760081763184186
+11.818014251228584
+7.717795743564184
+14.760081763184186
+14.760081763184186
+24.583674801119326
+11.818014251228584
+11.818014251228584
+11.818014251228584
+11.818014251228584
+11.818014251228584
+25.601171371210853
+25.601171371210853
+25.601171371210853
+25.601171371210853
+25.601171371210853
+8.985081341528376
+11.818014251228584
+11.818014251228584
+29.659768523669765
+29.659768523669765
+29.659768523669765
+29.659768523669765
+19.635054972747273
+6.436842627324987
+22.48142570243955
+11.006294769552467
+6.436842627324987
+6.436842627324987
+29.659768523669765
+11.006294769552467
+11.006294769552467
+11.006294769552467
+4.412690136906335
+4.412690136906335
+12.3614315519791
+6.436842627324987
+26.206993913691488
+11.006294769552467
+11.006294769552467
+29.659768523669765
+29.659768523669765
+4.412690136906335
+4.412690136906335
+11.006294769552467
+29.659768523669765
+29.659768523669765
+29.659768523669765
+11.006294769552467
+11.006294769552467
+11.006294769552467
+29.659768523669765
+29.659768523669765
+13.064204855871843
+15.528055392913883
+0
+0
+9.413372059797307
+26.08410584921033
+23.852483694763105
+0
+19.771155233245075
+15.528055392913883
+0
+0
+26.08410584921033
+5.83001613796578
+0
+8.986821969719145
+36.309223808514
+0
+20.096980466717383
+15.951243552865694
+0
+5.83001613796578
+2.697421882313031
+0
+0
+15.904937791122457
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22.814164406255767
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22.814164406255767
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Process finished with exit code 0
