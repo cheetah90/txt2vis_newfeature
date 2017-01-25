@@ -314,6 +314,13 @@ def normalize_words(imgs_content, query_string):
 
     return (new_imgs_content, new_query_string)
 
+def write_2_csv(list, csvfile_name):
+    with open(csvfile_name, 'w', newline='') as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        for score in list:
+            csvwriter.writerow(score)
+
+
 if __name__ == "__main__":
     #feature_file_df = pandas.read_csv("./nonmap.csv")
     feature_file_df = pandas.read_csv("./nonmap.csv")
@@ -355,6 +362,10 @@ if __name__ == "__main__":
             for score in scores_list:
                 print(score)
 
+            write_2_csv(scores_list, "before_error_results.csv")
+
+
+
         # add the query_string to corpus
         imgs_content = stem_imgs_content(imgs_content)
         imgs_content.append(query_string)
@@ -394,4 +405,9 @@ if __name__ == "__main__":
 
     for score in scores_list:
         print(score)
+
+
+    write_2_csv(scores_list, "results_all.csv")
+
+
 
