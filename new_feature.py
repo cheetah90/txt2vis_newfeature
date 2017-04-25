@@ -1,78 +1,19 @@
-import pandas, json, requests, nltk, string, math, csv
 from collections import Counter
 
-
+import csv
+import json
+import nltk
+import nltk.data
+import pandas
+import requests
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet
-import nltk.data
 from nltk.stem.snowball import SnowballStemmer
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
-from sklearn.metrics.pairwise import cosine_similarity
 
-from bs4 import BeautifulSoup
 import rake
-
-# enumeration of punctuation
-translator = {ord(c): None for c in string.punctuation}
-
-class MediaWikiCommonsAPI:
-    def __init__(self):
-        self.baseUrl = 'https://commons.wikimedia.org/w/api.php?action=query&'
-
-    def getImageDescription(self, uid):
-        url = self.baseUrl + "titles={}&prop=imageinfo&iiprop=extmetadata&format=json&indexpageids".format(uid)
-        response = requests.get(url)
-
-        description = ""
-
-        if (response.status_code == 200):
-            response = response.json()
-            pageid = response['query']['pageids'][0]
-            try:
-                Objname = response['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['ObjectName']['value']
-            except KeyError:
-                Objname = ''
-
-            try:
-                Categories = response['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['Categories']['value']
-                Categories = Categories.replace("|", " ")
-            except KeyError:
-                Categories = ''
-
-            try:
-                ImgDescription = response['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['ImageDescription']['value']
-            except KeyError:
-                ImgDescription = ''
-
-            description = Objname + " " + Categories + " " + ImgDescription
-
-        # need to clean up the image description a bit
-        # remove the html elements
-        clean_description = BeautifulSoup(description, "lxml").text
-
-        # remove all numbers
-        clean_description = "".join([i for i in clean_description if not i.isdigit()])
-
-        return clean_description
-
-
-def get_caption_tokens(jsonObj, record):
-    for item in jsonObj['articles']:
-        if item['title'] != 'Map' and item['images'][0]['url'] == record['image_url']:
-            # convert to lower case for counting
-            lower_case_caption = item['images'][0]['caption'].lower()
-            # remove punctuation
-            lower_case_caption = lower_case_caption.translate(translator)
-            caption_token = nltk.word_tokenize(lower_case_caption)
-            return caption_token
-
-    return []
-
-def get_news_text(jsonObj):
-    text = jsonObj['text'].lower() #convert to lower case for matching
-    return text
+from lib.mediawikiapi import MediaWikiCommonsAPI
 
 
 # from http://stackoverflow.com/questions/15586721/wordnet-lemmatization-and-pos-tagging-in-python
@@ -200,10 +141,6 @@ def get_imgdesc_tokens(description):
     return text
 
 
-def get_img_mediawiki_uid(commons_url):
-    return commons_url[commons_url.rfind('/')+1:]
-
-
 def load_idf_dataset():
     with open('./idf.txt', newline='') as csvfile:
 
@@ -213,43 +150,10 @@ def load_idf_dataset():
         return idf_dataset
 
 
-def get_article_title(jsonObj):
-    return jsonObj['title'].lower()
 
 
-def parse_imgs_info(jsonObj_article_file):
-    imgs_hash = {}
-    imgs_content = []
-    i = 0
-
-    for item in jsonObj_article_file['articles']:
-        if item['title'] != 'Map':
-            img_caption = item['images'][0]['caption'].lower()
-            img_caption = img_caption.translate(translator)
-
-            img_uid = "File:"+get_img_mediawiki_uid(item['images'][0]['url'])
-            img_description = mediawiki_api.getImageDescription(img_uid).lower()
-            img_description = img_description.translate(translator)
-
-            img_description_text = img_description + " " + img_caption
-            imgs_hash[img_uid] = i
-            imgs_content.append(img_description_text)
-            i += 1
 
 
-    return imgs_hash, imgs_content
-
-
-def stem_tokens(tokens, stemmer):
-    stemmed = []
-    for item in tokens:
-        stemmed.append(stemmer.stem(item))
-    return stemmed
-
-def tokenize(text):
-    tokens = nltk.word_tokenize(text)
-    stems = stem_tokens(tokens, stemmer)
-    return stems
 
 
 # Using Rake for keyword extraction
@@ -287,33 +191,6 @@ def extract_keywords_from_news_content(news_content):
     # return final_keywords
 
 
-def stem_imgs_content(imgs_content):
-    stemmed_imgs_content = []
-
-    for img_content_item in imgs_content:
-        stemmed_tokens = tokenize(img_content_item)
-        stemmed_img_content = " ".join(stemmed_tokens)
-        stemmed_imgs_content.append(stemmed_img_content)
-
-    return stemmed_imgs_content
-
-
-def normalize_words(imgs_content, query_string):
-    new_imgs_content = []
-
-    for img_content in imgs_content:
-        counts = Counter(img_content.split(' '))
-        for keyword in query_string.split(' '):
-            for key in counts.keys():
-                if keyword in key:
-                    img_content = img_content.replace(key, keyword)
-                elif key in keyword:
-                    new_query_string = query_string.replace(keyword, key)
-
-        new_imgs_content.append(img_content)
-
-    return (new_imgs_content, new_query_string)
-
 def write_2_csv(list, csvfile_name):
     with open(csvfile_name, 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
@@ -322,7 +199,6 @@ def write_2_csv(list, csvfile_name):
 
 
 if __name__ == "__main__":
-    #feature_file_df = pandas.read_csv("./nonmap.csv")
     feature_file_df = pandas.read_csv("./nonmap.csv")
     mediawiki_api = MediaWikiCommonsAPI()
     #stemmer = PorterStemmer()
